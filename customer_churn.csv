@@ -1,0 +1,3000 @@
+churned,id,customer_code,co_name,total_spend
+0,1,1826,Hoffman Martinez and Chandler,68567.34
+0,2,772,Lee Martin and Escobar,74335.27
+0,3,479,Hobbs Mcdaniel and Baker,48746.22
+0,4,1692,Williams-Harris,64416.7
+0,5,2578,Beck-Snyder,71623.2
+0,6,1742,Romero Ltd,70232.26
+0,7,1113,Knox and Sons,41159.58
+0,8,477,Weber Morrow and Singleton,55440.95
+0,9,2650,Snyder Guzman and Archer,46565.56
+0,10,2829,Jackson LLC,42407.84
+0,11,453,Gibbs-Williams,51725.68
+0,12,1212,Torres PLC,65722.64
+0,13,1018,Nelson Inc,45052.57
+0,14,843,Hebert Group,53722.09
+0,15,525,Lee PLC,59328.08
+0,16,2746,Parsons Mack and Ramos,71439.96
+0,17,377,Durham and Sons,67749.02
+0,18,2066,Grant LLC,45592.11
+0,19,2277,Mitchell Trevino and Garcia,50786.24
+0,20,1229,Nichols-Sanchez,78490.87
+0,21,255,Brooks-Lopez,40130.34
+0,22,1327,Guerrero Meadows and Williams,79289.47
+0,23,1620,Nicholson-Phillips,41576.36
+0,24,2038,Underwood-Torres,76842.37
+0,25,2779,Ortiz Hughes and Harvey,64200.5
+1,26,1070,Chang and Sons,63106.95
+0,27,2211,Cummings Erickson and Wilkinson,42364.62
+0,28,1489,Edwards-Armstrong,76316.22
+0,29,705,Hunter Inc,50546.11
+0,30,2619,Dawson Cabrera and Brooks,52057.18
+0,31,848,Pacheco LLC,43184.02
+0,32,575,Gonzalez and Sons,54620.33
+0,33,60,Reynolds-Benjamin,66212.82
+0,34,213,Anthony PLC,48879.95
+0,35,1778,Warren-Spence,56199.2
+0,36,2310,Price Inc,40908.55
+0,37,934,Allison Jimenez and Perkins,40796.22
+0,38,217,Parker LLC,47640.47
+0,39,2803,Silva Munoz and Lee,46582.96
+0,40,2315,Cooper Hoover and Sanders,74597.65
+0,41,769,Bolton Wolfe and Swanson,68714.95
+0,42,2514,Hunter Fields and Scott,46619.19
+0,43,2891,Davis-Frye,67980
+0,44,1010,Gonzalez Ltd,62607.96
+1,45,1759,Burns and Sons,74998.47
+0,46,2618,Kaufman Group,53610.7
+1,47,233,Davis Parker and Valentine,46058.9
+0,48,1299,Marshall White and Vincent,65002.58
+0,49,2786,Bailey Walker and Patton,67375.66
+0,50,1067,Mann James and Baker,51640.43
+0,51,807,Lara-Camacho,62943.75
+0,52,872,Smith and Sons,54187.75
+0,53,2627,Howard Brown and Anderson,66344.42
+0,54,921,Wagner Hobbs and Cummings,52086.01
+0,55,658,Burton-Tate,57323.18
+0,56,1699,Williams Diaz and Ross,68007.43
+0,57,1426,White-Travis,40988.41
+0,58,919,Turner-Mckee,59025.1
+0,59,1600,Galloway Inc,79248.48
+1,60,617,Church Benitez and Bell,59334.47
+0,61,138,Clay Ltd,43322.08
+0,62,1281,Ford-Carson,62577.52
+0,63,1457,Norris-Mckinney,62047.96
+0,64,1351,Miller and Sons,52113.89
+0,65,1109,Ellis and Sons,79869.91
+0,66,1523,Gomez-Hardy,54813.55
+0,67,1971,Peters Ltd,51368.92
+0,68,307,Ortiz-Wood,57081.59
+0,69,1918,Watson-Pittman,72197.83
+0,70,1371,Williams-Gonzalez,76352.13
+0,71,2144,Snyder-Kent,43804.31
+0,72,229,Powell Holmes and Simmons,71677.58
+0,73,1314,Stephens Holloway and Smith,68679.65
+0,74,738,Massey-Morrow,62350.73
+0,75,2473,Horton LLC,65583.26
+0,76,2198,Thomas-Oneill,67580.11
+0,77,163,Collins Harmon and Brown,77199.57
+0,78,970,Wilkerson Jackson and Perry,78647.04
+0,79,1242,King James and Carter,70343.78
+0,80,1307,Miller Inc,61391.28
+0,81,2459,Hudson Watkins and Williams,61518.62
+1,82,1669,Williams-Perez,44721.39
+0,83,1746,Rush Williams and Smith,46513.9
+0,84,1636,Garcia Ellison and Johnson,52785.67
+0,85,2902,Smith Campbell and Paul,55190.8
+0,86,1623,Robinson-Warner,45235.41
+0,87,874,Smith Anderson and Fernandez,40575.16
+0,88,2955,Cole Neal and Lopez,78026.3
+1,89,1726,Byrd Patterson and Porter,77396.55
+0,90,2971,Christensen Inc,74979.14
+0,91,1800,Marsh Richards and Erickson,52154.53
+0,92,2082,Nicholson Ltd,75572.73
+0,93,1407,Gordon and Sons,79637.96
+0,94,244,Frederick-Riley,51707.48
+0,95,1194,Flores Ltd,70642.93
+0,96,1732,Stewart-Clayton,62540.01
+0,97,695,Hernandez Gonzalez and Mcdaniel,71677.69
+1,98,1396,Bailey Inc,78170.43
+0,99,1816,Grimes Perez and Dickerson,46913.57
+0,100,437,Bradley Roberts and Pham,41168.84
+0,101,188,Hamilton Martinez and Wilson,43803.28
+0,102,285,Sheppard and Sons,62993.61
+0,103,1662,Norris Young and Wallace,43884.31
+0,104,1486,Richardson-Webb,69044.91
+0,105,1233,Simpson-Archer,40537.23
+0,106,2858,Freeman Brooks and Davies,43829.38
+1,107,75,Cox-Hines,72149.71
+0,108,1474,Smith Powell and Thompson,73650.57
+0,109,2647,Lang Inc,57016.41
+0,110,2548,Powell LLC,78761.54
+0,111,2283,Griffin Hall and Simmons,41342.6
+0,112,2449,Hoffman-Gregory,71166.68
+0,113,2621,Taylor Davis and Brown,51672.52
+0,114,1795,Moore Inc,53805.74
+0,115,977,Rodriguez-Blankenship,73834.21
+0,116,856,Walker-Wood,53179.4
+0,117,2981,Meadows-Smith,43601.61
+0,118,443,Moore-Carter,75604.7
+0,119,2607,Dennis Sanders and Farmer,72390.34
+0,120,1633,Washington Edwards and Rhodes,58136.82
+0,121,632,Farmer Fernandez and Gibson,63897.46
+1,122,2816,Carter-Jenkins,56674.39
+0,123,2915,Moore Cox and Colon,55472.86
+1,124,2512,Powell and Sons,70430.2
+0,125,2125,Mosley Chang and Shannon,56414.38
+0,126,29,Gay Moore and Fisher,69413.72
+0,127,419,Le Group,59479.13
+0,128,2667,Johnson Ltd,78594.6
+0,129,313,Osborne Group,65040.18
+0,130,944,Grimes-Snyder,65441.56
+0,131,1084,Hull Benjamin and Lindsey,43482.3
+0,132,168,Blanchard Kennedy and Rivers,72837.97
+0,133,2019,Spencer Dunn and Becker,71116.85
+0,134,1490,Mejia Williams and Scott,79353.98
+0,135,2533,Simon LLC,78295.33
+0,136,673,Friedman Powell and Davis,61803.04
+0,137,2691,Elliott Group,44117.28
+0,138,1032,Hernandez Ltd,45554.27
+0,139,1613,Espinoza Doyle and Fox,46027.46
+0,140,2176,Bryant Lewis and Olson,73978.36
+0,141,2492,Allen Murray and Pena,45935.93
+0,142,2741,Payne Woods and Davis,50089.17
+1,143,2027,Ramos Taylor and Adams,71144.68
+0,144,1446,Wheeler Khan and Salazar,68820.05
+0,145,461,Thompson Neal and Cross,57703.76
+0,146,1974,Martin-Hawkins,60762.68
+0,147,2756,Stafford Inc,79116.42
+0,148,2787,Thomas-Hernandez,76897.46
+0,149,2998,Lee PLC,61906.36
+0,150,1336,Ortiz Frazier and Zavala,54444.71
+0,151,1836,Mendoza Ltd,68599.72
+0,152,1743,Miller LLC,46951.03
+0,153,421,Castillo Mcmahon and Gonzalez,62382.07
+0,154,1782,Moreno PLC,44743.51
+0,155,439,Wagner-Richardson,41139.71
+0,156,735,Nguyen Morton and Chapman,53425.74
+0,157,1287,Patel LLC,58854.6
+0,158,2166,Brown-Moore,69700.3
+0,159,698,Johns Cooper and Rose,77644.2
+0,160,2934,Burns Grant and Wright,56383.34
+0,161,1530,Shepherd-Miles,74281.66
+0,162,1625,Mccarthy-Dalton,52768.7
+0,163,915,Guzman-Daniels,47939.06
+0,164,2455,Young-Smith,77753.25
+0,165,2029,Collins Matthews and Hutchinson,41704.16
+0,166,614,Zimmerman-Newman,52842.95
+0,167,2615,Martinez-Reyes,57525.4
+0,168,164,Thomas LLC,58131.42
+0,169,2660,Brock Riley and Rivers,59159.89
+0,170,526,Evans-Gill,44721.65
+0,171,550,Moreno Doyle and Thomas,71394.97
+0,172,2763,Martin-Roberts,64651.18
+0,173,1601,Castillo Wood and Collier,55772.01
+0,174,2636,Morgan-Gutierrez,77320.51
+0,175,1683,Sanders Crawford and Callahan,65437.51
+0,176,604,Robinson-Elliott,77433.28
+0,177,902,Harris Group,66534.88
+0,178,1984,Wilson Inc,63496.42
+0,179,1040,Wright PLC,72125.39
+0,180,472,Combs-Bauer,54351.83
+0,181,660,Stewart-Delgado,70971.58
+0,182,1602,Kaufman-Hopkins,73578.4
+0,183,2558,Smith Williams and Young,49610.84
+0,184,1286,Barnett LLC,75993.43
+0,185,332,Solomon Bowers and Sanchez,77343.13
+0,186,1772,Robertson LLC,59984.05
+0,187,1146,Sims Tanner and Austin,73555.85
+0,188,2570,Morris-Shields,50087.12
+0,189,2804,Martin Group,65100.95
+0,190,1555,Martinez Shaw and Anderson,60847.25
+0,191,1115,Kirk and Sons,58376.48
+0,192,1557,Murphy-Lambert,72678.86
+0,193,2372,Young Group,60394.92
+0,194,132,Lewis-Maldonado,65942.97
+0,195,117,Fischer-Nunez,46195.07
+0,196,2160,Kelley-Smith,55343.03
+0,197,2041,Le Collier and Mahoney,60458.21
+0,198,1588,Roberts-Carter,54585.01
+0,199,1667,Butler LLC,57381.39
+0,200,452,Lopez Anderson and Rivera,71307.25
+0,201,424,Schneider PLC,69801.1
+0,202,113,Lewis-Mathis,57272.59
+0,203,798,Franklin-Weber,78007.93
+0,204,993,Mathis Group,59236.24
+0,205,25,Clayton Lane and Randolph,46806.44
+0,206,2504,Vasquez-Edwards,49016.6
+0,207,2757,Guzman and Sons,74537.74
+0,208,740,Davis Carter and Pena,65234.1
+0,209,2377,Browning PLC,75057.21
+0,210,2594,Smith Scott and Boyd,79794.43
+0,211,978,Miller Matthews and Riley,53348.27
+0,212,2336,Craig Inc,41710.95
+0,213,1670,Hill-Hurst,79009.37
+0,214,131,Valdez Ltd,69437.63
+0,215,1075,Gomez-Parker,64839.51
+0,216,1218,Olsen Inc,53615.93
+1,217,566,Nolan Garcia and Gutierrez,52427.7
+0,218,2348,Cantu-Sanchez,57157.07
+0,219,1128,Brown-Nichols,62125.01
+1,220,2732,Cook-Boone,63987.93
+0,221,1359,Ruiz LLC,45930.53
+0,222,1517,Meyer and Sons,49191.17
+0,223,240,White-Quinn,59374.58
+0,224,2916,Thompson-Harris,40259.43
+1,225,1988,Jackson Johnson and Perez,74418.04
+0,226,52,Huber-Porter,67761.11
+0,227,968,Arellano-Fuller,70916.64
+0,228,1488,Townsend King and Hale,70840.94
+0,229,47,Jones-Smith,71226.17
+0,230,2697,Gentry PLC,51311.05
+0,231,1673,Dean Paul and Gould,74972.87
+0,232,205,Torres LLC,65849.62
+0,233,1376,Cole Wong and Scott,72658.02
+0,234,1963,Howe-Navarro,56001.71
+0,235,1762,Sanders LLC,73474.62
+0,236,1917,Smith Martin and Cole,61258.12
+0,237,22,Cameron-Hickman,41712.35
+0,238,650,Moody Ltd,72622.8
+0,239,1975,Payne Hampton and Wu,68881.33
+0,240,1207,Guerrero Mays and Blanchard,40624.61
+0,241,2574,Phillips-Lee,58164.12
+0,242,1938,Riddle-Malone,59526.15
+1,243,2237,Eaton PLC,69800.75
+0,244,1431,Green PLC,56548.11
+0,245,912,Huber LLC,40025.36
+1,246,1895,Rogers Smith and Davis,44687.79
+0,247,2730,Montgomery Stevenson and Lee,57259.29
+0,248,81,Long Ltd,56097.15
+0,249,2121,Brown-Oneal,66899.37
+0,250,2793,Moore David and Becker,43782.91
+0,251,2381,Olson-Johnson,76785.85
+0,252,718,Miller Group,63448.6
+0,253,2766,Harper Group,52658.4
+0,254,2755,Griffin-Clarke,65386.19
+0,255,2603,Barr PLC,68856.28
+0,256,2664,Freeman Baker and Wilson,59047.17
+0,257,28,Floyd Ltd,52134.27
+0,258,2418,Castaneda-Andrews,70747.08
+0,259,2445,Juarez-Wood,52916.6
+0,260,2208,Spencer LLC,78474.18
+0,261,1284,Whitaker-Nelson,42298.29
+0,262,2032,Gonzalez Herrera and Jimenez,66904
+0,263,2496,Hamilton Burnett and Combs,76081.16
+0,264,2738,Smith-King,57674.11
+1,265,2202,Medina Martinez and Diaz,76528.58
+0,266,749,Morris-Larsen,63725.68
+0,267,2637,Bishop Ltd,78192.07
+0,268,1733,Sweeney Group,47460.29
+0,269,120,Jones Warren and Moore,66634.2
+0,270,31,Terry Group,63735.61
+0,271,2965,Munoz PLC,41695.89
+0,272,2282,Barnett-Sanchez,51473.91
+0,273,574,Kim-Franklin,65583.08
+0,274,2248,Smith Olson and Estrada,64776.97
+0,275,1322,Doyle-Guerra,55981.77
+0,276,1991,Hanson-Torres,57940.62
+1,277,1321,Bailey-Baker,70677.08
+0,278,1867,Singh Dickson and Collier,44787.64
+0,279,250,Castillo Davis and Martinez,58689.89
+0,280,1249,Rivera-Mcdonald,75264.9
+0,281,618,West Castro and Carpenter,56818.38
+0,282,644,Lopez PLC,77660.04
+1,283,478,Thompson LLC,44368.45
+0,284,1877,Walker-Lopez,77841.99
+0,285,2152,Brown Inc,66383.96
+0,286,2123,Huff-Chang,66143.62
+0,287,373,Moreno Ryan and Jacobs,56514.96
+0,288,985,Taylor-Wolf,66244.19
+0,289,948,Whitaker Miller and Dalton,43582.27
+0,290,1855,Harris Medina and Berger,59503.02
+0,291,1717,Mata Ltd,46650.51
+0,292,750,Burgess-Smith,65904.35
+0,293,2190,Brown Johnson and Moses,69031.52
+0,294,2173,Johnson Stanley and David,69953.52
+0,295,301,Gallagher-Sandoval,74586.89
+0,296,2665,Johns LLC,76885.27
+0,297,1929,Rocha-Williams,40367.93
+0,298,2745,Flores-Conner,54118.71
+0,299,2771,Powell Ltd,75378.29
+0,300,486,Jones and Sons,70451.95
+0,301,651,Kennedy Hayes and Lee,50896.72
+0,302,2098,Torres Cowan and Cuevas,68566.43
+0,303,2702,Garcia LLC,60822.04
+0,304,839,Owens Baker and Sharp,50470.79
+1,305,449,Ellis-Ho,47783.63
+0,306,2200,Bridges-Park,60636.93
+0,307,2175,Richardson-Garcia,69280.57
+0,308,259,Rose Reyes and Anderson,57294.98
+0,309,306,Hansen PLC,49685.74
+0,310,1320,Kim Lewis and Henry,60140.58
+0,311,2084,Marshall PLC,65920.79
+0,312,1364,Colon PLC,40279.07
+0,313,1973,Soto-Phillips,48453.24
+0,314,779,Campbell-Martinez,51082.34
+0,315,1634,Morris and Sons,77454.92
+0,316,228,Ramirez-Moreno,54467.77
+0,317,1059,Olson White and Tucker,65818.04
+0,318,1851,Gallegos Lee and Smith,73931.01
+0,319,853,James Inc,45145.12
+0,320,2703,Kelly PLC,69982.9
+0,321,2685,Pierce Schmidt and Park,75073.13
+0,322,2794,Bennett-Roberts,63428.57
+0,323,2299,Brown and Sons,74084.53
+1,324,1423,Green-Harrison,54719.24
+0,325,283,Yu and Sons,56607.3
+0,326,1150,Reed-Terrell,72707.71
+0,327,436,Peterson Martinez and Russell,50588.84
+0,328,271,Branch Jacobs and Gutierrez,69090.59
+0,329,2539,Walker-Jones,64693.24
+0,330,4,Mccall Inc,49787.91
+0,331,2819,Salazar Ltd,63507.83
+1,332,1270,Cook-Robinson,61999.53
+1,333,2587,Li Robertson and White,53810.67
+0,334,203,Moore-Dunn,48974.85
+0,335,1328,Coleman-Hoover,54273.95
+0,336,1365,Bennett Cooper and Jones,48081.82
+0,337,2300,Taylor-Blevins,45285.43
+0,338,2151,Norman Inc,63184.37
+0,339,1107,Kirby Ltd,78469.28
+0,340,2312,Lopez-Key,74495.76
+0,341,613,Clay-Richardson,43002.37
+0,342,1453,Alvarado-Harris,43202.97
+0,343,212,Graham Ltd,64132.23
+0,344,986,Green Jackson and Grant,66574.75
+0,345,957,Dominguez LLC,41415.91
+0,346,2818,Wyatt-Johnson,49241.64
+0,347,1668,Becker Day and Thomas,79092.16
+0,348,587,Ayers-Gutierrez,46414.76
+1,349,1199,Tucker Franklin and Terry,41435.73
+0,350,326,Fuller Murray and Deleon,66990.27
+0,351,1654,Jackson and Sons,45315.28
+0,352,196,Smith Perez and Cunningham,46094.01
+0,353,595,Goodman Inc,57075.27
+0,354,928,Mccall LLC,73813.35
+0,355,1463,Ramirez Ltd,78357.58
+0,356,2617,Mitchell LLC,61576.51
+1,357,2620,Schmitt Group,76798.13
+0,358,1747,Garcia LLC,79671.1
+0,359,2676,Miranda-Contreras,47965.29
+0,360,1703,Greene-Cook,70087.49
+0,361,209,Peterson-Taylor,73937.3
+0,362,1250,Bruce-Brown,53945.25
+0,363,1694,Mcmillan-Johnson,69304.13
+1,364,1745,Shea Jones and Marshall,68179.8
+0,365,727,Hill PLC,58886.76
+0,366,2432,Rodriguez Smith and Barry,75144.06
+1,367,686,Sullivan Group,41592.57
+0,368,2156,Parrish Rivera and Pope,61580.79
+1,369,1163,Le-Navarro,52209.34
+0,370,2184,Hines Group,77596.69
+0,371,109,Cooper Group,63472.73
+0,372,150,Holden LLC,63720.62
+0,373,370,Jones Alvarez and Lawson,75039.34
+1,374,1078,Williams Williams and Holmes,60436.16
+0,375,2943,Williams-Davis,79057.38
+0,376,2880,Walker-Baxter,45175.7
+0,377,2672,Evans Brown and Mccoy,72646.19
+0,378,2352,Morris and Sons,75966.03
+0,379,2976,Cobb Gordon and Oliver,76895.73
+0,380,2365,Ware Nichols and Francis,44079.31
+0,381,562,Smith Williams and Norris,43870.98
+0,382,2105,Gillespie Stout and Hull,74739.47
+0,383,1308,Wu Pace and Perez,57435.18
+0,384,1239,Perez and Sons,69963.14
+0,385,1393,Miller-Swanson,73439.52
+0,386,790,Guerrero-Andrews,65431.88
+0,387,830,Cruz LLC,47975.39
+0,388,1511,Harris Ltd,57317.75
+0,389,2838,Klein Byrd and Smith,68077.7
+0,390,2225,Walton Harrington and Martin,40490.62
+0,391,2979,Schwartz Dominguez and Howard,54962.73
+0,392,2433,White LLC,65276.82
+0,393,2134,Pitts-Jackson,46686.11
+0,394,1814,Madden and Sons,71879.91
+0,395,2626,Cox Garcia and Trujillo,77871.93
+0,396,239,House Hill and Brooks,70379.52
+0,397,2434,Villa-Cherry,44510.55
+0,398,1176,Branch Nelson and Strickland,49453.8
+0,399,1110,Powell-Yu,64417.95
+0,400,725,Franco-Martinez,49793.13
+0,401,1535,Ward Colon and Burnett,53868.03
+0,402,2412,Little Group,53082.5
+0,403,849,King-Welch,62798.51
+0,404,733,Edwards-Green,40695.58
+0,405,744,Elliott Johnson and Mason,76739.35
+0,406,1608,Garcia Padilla and Fowler,41785.36
+0,407,2232,Lee-Perry,75625.33
+0,408,1610,Wilson-Cruz,59334.69
+0,409,1132,Hensley Inc,72189.42
+1,410,1261,Mason and Sons,79804.39
+0,411,2824,Krueger-Mitchell,51342.73
+0,412,2890,Weaver-Woodard,71106.96
+0,413,206,Blackburn PLC,56163.27
+0,414,2899,Kennedy-Morton,66592.55
+0,415,791,Boone-Reyes,74277.71
+0,416,553,Wu-Braun,75111.72
+0,417,2279,Brock Williams and Hernandez,56419.8
+0,418,989,Holt Ford and Donovan,41735.99
+1,419,2643,Pham Inc,64676.32
+0,420,1226,Mills Peters and James,78962.13
+0,421,2970,Foster PLC,67095.7
+0,422,2855,Reed and Sons,79877.74
+0,423,105,Griffin-Miller,60427.66
+0,424,1394,Moore-Lambert,61956.48
+0,425,2752,Garrett Ltd,76247.18
+0,426,1780,Haney Alexander and Waller,47691.87
+0,427,2854,Knox Brown and Alvarez,49591.15
+0,428,1748,Cochran Harrington and Miller,52381.27
+0,429,2376,Parker Stanton and Cox,68621.85
+0,430,2868,Petersen-Rodriguez,79968.76
+0,431,2010,Aguilar-Chen,76646.49
+0,432,2645,Stevenson-Jackson,60201.79
+0,433,2169,Sandoval-Mccoy,79608.68
+0,434,722,Holloway-Patrick,50858.09
+1,435,788,Maldonado-Williamson,66952.74
+1,436,820,Bass and Sons,76673.17
+0,437,2050,Michael and Sons,57577.33
+1,438,115,Braun-Clark,78880.3
+0,439,1592,Navarro-Doyle,58313.43
+0,440,263,Powers Inc,76689.87
+0,441,2149,Williams Walker and Baker,78341.12
+0,442,2240,Clark-Ramirez,79577.49
+1,443,1332,White-Johnson,76537.07
+0,444,1932,Brown Franco and Kirby,49785.55
+0,445,980,Peterson-George,62996.03
+0,446,619,Porter Harrison and Williams,49310.05
+0,447,2187,Gonzales-Williams,63159.9
+0,448,2920,Keller Santiago and Cowan,59752.64
+0,449,561,Chen Group,70197.29
+0,450,2046,Morrow-Lewis,44451.91
+0,451,16,Williams-Henry,59048.77
+0,452,2374,Frazier Group,42007.82
+0,453,2716,Williams Williams and Richardson,42769.38
+0,454,2625,Salazar Richmond and Gonzales,49212.95
+0,455,2006,Wheeler LLC,72454.04
+0,456,1591,Perkins-Baird,69749.05
+0,457,2095,Martinez Molina and Howard,43155.1
+0,458,337,Lopez Group,48393.06
+0,459,1528,Woods Wilson and Berry,78665.36
+0,460,66,Graves Griffin and Pearson,67964.18
+0,461,371,Owen-Fowler,44850.4
+0,462,1074,Carter-Bolton,52997.67
+0,463,982,Mcgee Inc,60759.65
+0,464,743,Jackson-Sanchez,59761.47
+0,465,2224,Knight and Sons,54399.96
+0,466,610,Johnson-Brown,58387.23
+0,467,406,Bailey Mayer and Solomon,63274.65
+0,468,2990,Fowler-Lopez,46575.02
+0,469,664,Grant-Mccoy,41047.09
+0,470,1412,Miller Ltd,76221.41
+0,471,73,Cowan-Chang,61204.43
+1,472,2591,Hamilton and Sons,41739.56
+0,473,870,Schroeder Ltd,69027.48
+0,474,1244,Cortez Rich and Pitts,63046.34
+0,475,2045,Francis LLC,59558.7
+0,476,2714,Chung-Benjamin,63743.52
+0,477,1860,Henderson PLC,57418
+0,478,2140,Edwards Hernandez and Wilkerson,75787.72
+0,479,2213,Torres-Sharp,48909.26
+0,480,861,Page Fernandez and Marshall,65134.68
+0,481,2203,Martin Brady and Henderson,70145.63
+0,482,867,Bailey Johnson and Burke,79503.07
+0,483,2843,Clark Jensen and Branch,46901.06
+0,484,554,Edwards Morrison and Lopez,68459.66
+0,485,2477,Martinez-Huynh,55841.1
+0,486,1615,Bailey-Smith,56250.28
+0,487,459,Melton Group,41992.22
+0,488,2837,Miller-Gonzalez,56873.45
+0,489,266,Richardson-Martin,47784.27
+1,490,1460,Lambert-Freeman,69295.47
+0,491,2867,Wilson Ltd,41542.44
+0,492,1418,Wilson-Grant,47249.31
+0,493,2302,Hahn-Johnston,78918.9
+0,494,1144,Smith-Cole,78061.83
+0,495,2917,Ray-Lewis,73007.02
+1,496,1834,Sanchez Parks and Johnson,63878.06
+0,497,509,Brown-Lawrence,51372.35
+0,498,2342,Thompson Fletcher and Nichols,59469.3
+0,499,348,Bridges Group,41889.84
+0,500,256,Gonzalez Group,12847.18
+0,501,1947,Moore-Morris,5972.86
+0,502,2898,Bush Hopkins and Martin,16304.88
+0,503,97,Andrews Inc,54886.55
+0,504,2274,Calderon Wells and Meyer,20547.62
+0,505,2470,Carroll LLC,43016.33
+0,506,1570,Jackson Wilson and Clark,24019.08
+0,507,2581,Haynes Solis and Roach,49871.47
+0,508,584,Black-Johnson,76533.78
+0,509,1643,Thompson-Powell,7449.77
+0,510,1088,Black Green and Hill,20919.62
+0,511,1849,Drake-Reed,69718.6
+0,512,315,Ball and Sons,3200.74
+0,513,40,Greer Evans and Higgins,16889.75
+0,514,1664,Barron Jones and Johnson,5173.71
+0,515,331,Kramer Inc,23495.61
+0,516,2985,Fernandez Inc,23958.72
+0,517,961,Boyer Miller and Harris,11560.56
+0,518,2480,Nguyen Group,31991.2
+0,519,1117,Garrison LLC,21089.79
+0,520,2945,Gates Martin and Smith,12022.18
+0,521,585,Gill Inc,11226.03
+0,522,1550,Moore Bennett and Gonzalez,54959.71
+1,523,1036,Owens-Turner,8635.44
+0,524,906,Chaney Allison and Delgado,44524.16
+0,525,594,Campbell-Thompson,13704.33
+0,526,2316,Rodriguez Payne and Gross,51578.01
+1,527,831,Webb-Black,63244.67
+0,528,1211,Cooper-Pineda,14021.76
+0,529,253,Rivera-Brown,39507.7
+1,530,2832,West Figueroa and Owen,58826.93
+0,531,1672,Jones-Campbell,1387.59
+0,532,2744,Durham Weber and Gibbs,52273.89
+1,533,824,Wilson PLC,32407.06
+0,534,1395,Avila and Sons,4746.98
+0,535,2088,Brown Weiss and Rollins,11598.38
+0,536,2958,Vega Cooper and Diaz,15916.24
+0,537,570,Figueroa Allen and Little,16036.95
+0,538,173,Shea-Snyder,11504.76
+0,539,93,Mendoza-Bryant,53909.95
+0,540,433,Murray-Ramirez,13430.11
+0,541,2163,Cook Ltd,64296.92
+0,542,905,Gomez PLC,58304.59
+1,543,1274,Zamora Sullivan and Case,38664.03
+0,544,2384,Boyer-Allen,25245.77
+1,545,917,Marsh Byrd and Jones,61352.6
+0,546,966,Mccoy-Brady,69765.99
+0,547,2405,Dyer PLC,19277.41
+0,548,829,Kaufman May and Donovan,68496.31
+0,549,2044,Martinez-Potts,11825.12
+0,550,897,Love Inc,49902.49
+0,551,998,Owens Guzman and Rivera,5130.09
+0,552,95,Kelly-Howard,29449.21
+0,553,2439,Baker LLC,2316.83
+0,554,2893,Hall and Sons,13139.73
+0,555,2157,Thomas Salazar and Morris,44441.53
+0,556,2586,Vaughn Jones and Henderson,54398.41
+0,557,1739,Johnson Duke and Mayo,56805.57
+0,558,2162,Carney-Griffin,50846.22
+0,559,322,Mccarthy-Nichols,6200.38
+0,560,2109,Robertson Mccall and Cox,71939.07
+1,561,2425,Williams and Sons,23276.14
+0,562,1556,Jacobson-Barnes,69997.81
+0,563,2797,Williamson PLC,35372.46
+0,564,2338,Jones PLC,70936.4
+0,565,1198,Marshall PLC,32631.68
+0,566,1360,Braun Wood and Boyer,52303.57
+0,567,1037,Ochoa Miller and Phillips,74739.43
+0,568,309,Davis-Jones,3947.5
+0,569,2368,Davis Group,70295.39
+0,570,302,Skinner Lin and Cline,6409.55
+0,571,2251,Allen-Gould,3514.78
+0,572,154,Davila-Frank,15461.08
+0,573,697,Henderson Group,10488.21
+0,574,731,Stanley-Duncan,14363.46
+0,575,488,Ryan-Pham,45816.2
+0,576,2879,Benton-Monroe,46263.98
+0,577,2371,Brown Ramirez and Gentry,13038.2
+0,578,687,Cherry-Harris,78141.84
+0,579,1977,Gates LLC,25512.07
+0,580,2441,Dennis and Sons,1639.37
+0,581,305,Ortiz PLC,46716.8
+0,582,1968,Silva Ltd,19898.09
+1,583,542,White Inc,30848.47
+0,584,1415,Cohen Parker and Flowers,36126.93
+0,585,2921,Arias Brown and Sparks,24983.32
+0,586,1006,Martin-Aguilar,57552.11
+0,587,765,Thomas PLC,50417.31
+0,588,2355,Daniels-Anderson,49613.96
+0,589,2656,Rodriguez-Carney,12919.04
+0,590,647,Garcia Kelley and Tucker,4501.53
+0,591,2768,Jefferson Ltd,46334.52
+0,592,1598,Evans and Sons,70785.73
+0,593,366,Hodge Inc,21162.24
+0,594,2754,Garcia and Sons,71158.81
+0,595,222,Duncan-Maldonado,55931.22
+0,596,1604,Tapia and Sons,38576.86
+0,597,2317,Acosta-Long,4787.08
+0,598,1345,Parker-Owens,73850.69
+0,599,621,Farmer-Wilson,29265.68
+0,600,0,Roy Inc,76111.67
+0,601,949,Andrews LLC,63641.75
+0,602,336,Suarez PLC,66485.51
+0,603,128,Burnett Ltd,36489.14
+0,604,264,Alvarez Inc,51075.8
+0,605,2649,Rodriguez-Rose,68722.84
+0,606,753,Galloway Inc,28556.04
+0,607,1228,Greer Haynes and Caldwell,39498.33
+0,608,466,Schmidt Perry and Macias,63154.44
+1,609,2579,Lee Inc,31910.53
+1,610,2839,Taylor Flores and Sanchez,51987.38
+0,611,816,Tran Group,67747.49
+0,612,2487,Williams Group,32691.08
+0,613,1637,Warren Dixon and Long,23564.56
+0,614,1756,Watson-Scott,74272.42
+1,615,2159,Taylor Barrera and Small,78268.95
+0,616,277,Welch Henson and Carey,33399.14
+0,617,74,Morrison-Robinson,42681.96
+0,618,2566,Montgomery-Fritz,61342.38
+0,619,1386,Roman Hernandez and Hanna,43296.8
+0,620,1430,Hodges-Mcfarland,24948.7
+0,621,2897,Warren-Jarvis,9863.5
+0,622,984,Mullins-Weber,57798.31
+0,623,2254,Snyder PLC,42682.7
+0,624,2025,Thomas-Friedman,77882.37
+0,625,2053,Lewis Richards and Collins,39657.68
+0,626,1580,Cox and Sons,1157.75
+0,627,1305,Morris-Carter,31775.67
+0,628,1438,Campos Ltd,51219.78
+0,629,325,Patel-Hanson,62883.4
+0,630,648,Brown-Wilcox,68926.98
+0,631,1563,Carney Burton and Gardner,32881.45
+0,632,2525,Elliott-Morales,73441.69
+0,633,258,Wagner LLC,62323.09
+0,634,1606,Baker-Weaver,39527.41
+0,635,2008,Newton-Garcia,62712.69
+0,636,219,Marshall Ewing and Good,23871.51
+0,637,1461,Carpenter Alvarez and Hayden,47571.28
+0,638,55,Jackson-Carney,14426.18
+0,639,792,Casey-Schneider,3195.52
+0,640,341,Hayes and Sons,53572.69
+0,641,422,Williams Mitchell and Wilson,15960.22
+0,642,682,Hill Mack and Davis,34803.58
+0,643,158,Chen Cabrera and Bishop,37607.42
+0,644,1041,Juarez-Wolfe,15943.03
+0,645,1112,Johnson Santos and Simmons,57202.54
+0,646,965,Frost-Ryan,60748.21
+0,647,462,Shepherd LLC,52526.97
+0,648,328,Browning-Hudson,3143.22
+0,649,1013,Bernard PLC,74321.1
+0,650,2784,Murphy PLC,28437.78
+0,651,1575,Pearson and Sons,54446.88
+0,652,2409,Mcdonald-Barnes,53200.83
+0,653,368,Parker-Smith,79126.22
+0,654,1168,Collins and Sons,10338.34
+0,655,69,Shelton Nguyen and Kane,52997.66
+0,656,2983,Taylor Ltd,1723.81
+0,657,1421,Allen-Winters,49130.91
+1,658,531,Fleming-Steele,53634.79
+0,659,2798,Caldwell Inc,73042.98
+0,660,1200,Williams-Mcgrath,68533.16
+0,661,2929,Smith Sullivan and Ramirez,33129
+0,662,2577,Watson LLC,71737.15
+0,663,2515,Myers Group,4955.13
+0,664,2451,Myers Stanton and Butler,47492.11
+0,665,1455,Williams LLC,31548.05
+0,666,1715,Mack Ltd,11233.81
+0,667,1961,Conner-Harvey,70133.47
+0,668,2644,Gomez LLC,45565.11
+0,669,2823,Smith Ltd,56349.48
+0,670,1728,Walton Williams and Houston,65165.69
+0,671,2849,Ward Inc,51124.93
+0,672,1033,Guerra PLC,19414.39
+0,673,2541,King Murray and Powell,30949.43
+0,674,378,Garcia-Jones,18368.06
+1,675,1529,Gonzalez and Sons,8163.86
+0,676,1676,Walsh Ltd,21637.11
+0,677,797,Smith-Lucas,58277.93
+0,678,969,Nguyen-Davis,74352.73
+0,679,719,Davis-Wilson,46515.76
+0,680,2871,Morales-Doyle,40920.04
+0,681,1102,Baker Daniel and Hall,19262
+0,682,541,Ross Ltd,58455.2
+0,683,1979,Hernandez PLC,50416.53
+0,684,1049,Quinn LLC,41453.93
+0,685,835,Lopez Group,30658.32
+1,686,1306,Roy Camacho and Todd,4628.29
+0,687,638,Lin-Lewis,10003.12
+0,688,782,Black-Watkins,74789.72
+0,689,210,Bass Noble and Davis,1006.11
+0,690,958,Alvarez Ltd,32194.01
+0,691,2826,Mitchell Roberts and Schneider,27338.28
+0,692,712,Johnson Ltd,54929.02
+0,693,2331,Chan-Garcia,57071.26
+0,694,356,Alexander Lewis and Willis,76631.44
+0,695,1537,Smith Wagner and Parker,32875.85
+1,696,2565,Burton LLC,10488.55
+0,697,515,Porter Inc,77816.85
+0,698,2597,Patterson-Patel,58240.74
+0,699,221,Newman Hahn and Austin,62115.11
+0,700,528,Hall Petersen and Taylor,31787.47
+0,701,1192,Gross-Bullock,8939.5
+0,702,463,Mata Gibson and Torres,26992.09
+1,703,1939,Bradshaw-Barrett,57005.41
+0,704,297,King Johnson and Farmer,70601.29
+0,705,470,Cross Inc,48471.9
+0,706,1019,Greer PLC,45265.23
+0,707,1038,Smith Herman and Shaffer,53889.39
+0,708,1629,Schmidt Ltd,77526.95
+0,709,1771,Moore-Dixon,63034.18
+0,710,2887,Mcgee PLC,73481.39
+0,711,2560,Reed Briggs and Sanchez,14119
+0,712,939,Jensen Ingram and Porter,53898.83
+0,713,832,Jones Russell and Williams,16461.14
+0,714,2551,Butler Greer and Ballard,50718
+0,715,361,Sanchez Randall and Russell,3786.96
+0,716,2037,Pham West and Morse,75963.48
+0,717,1794,Snyder Coleman and Frederick,2169.49
+0,718,636,Green Ltd,31569.67
+0,719,2609,Durham Hill and Acosta,71358.31
+0,720,200,Garcia Sullivan and Gonzales,65810.86
+0,721,2077,Reed Hammond and Serrano,66383.75
+0,722,1890,Cochran Mathews and Murphy,51701.83
+0,723,412,Bush-Wall,78605.34
+0,724,1913,Brock Sanders and Welch,55163.08
+0,725,2864,Anderson Ltd,47109.61
+0,726,1444,Cardenas Johnson and Martinez,39213.91
+0,727,104,Baker Clayton and Lawrence,53777.53
+0,728,2172,Allen-Munoz,16296.03
+0,729,2033,Foley Charles and Young,17034.43
+0,730,2758,Peterson and Sons,40301.5
+0,731,454,Adams-Gomez,41085.81
+0,732,846,Clayton-Baker,7177.51
+0,733,885,Young PLC,3666.88
+0,734,2301,Lindsey-Robinson,41904.6
+1,735,2811,Webb-Bryan,61104.97
+0,736,202,Harper-Brown,43303.11
+0,737,1108,Kirk Inc,53020.78
+0,738,2408,Mason-Ortega,72762.19
+0,739,447,Sullivan Ltd,21918.9
+0,740,143,Martin Garcia and Knapp,67215.85
+0,741,608,Cochran and Sons,11544.72
+0,742,1291,Patton Inc,75626.09
+0,743,49,Kim Morales and Zimmerman,79529.2
+0,744,1213,Gonzalez-Ortega,30174.8
+0,745,679,Arnold Mcclure and Keller,55212.7
+0,746,2674,Williams-Mullen,30628.93
+0,747,10,Bishop David and Douglas,51949.79
+0,748,1861,Adams Gonzalez and Hall,19441.35
+0,749,1504,Martin Davis and Webb,65567.59
+0,750,2268,Price-Williams,22743.26
+0,751,112,Dixon LLC,47495.57
+0,752,2043,Walker Smith and Boone,60295.99
+0,753,2749,Gibson Coleman and Simmons,4678.2
+0,754,2559,Herring-Martinez,54069.83
+0,755,1910,Michael-Harrison,68001.9
+0,756,2874,Rivera Bryant and Smith,24007.6
+0,757,1994,Wilson LLC,17281.28
+0,758,2049,Klein-Miller,48566.43
+0,759,685,Preston Inc,9638.17
+0,760,1166,Ballard LLC,77826.9
+0,761,1701,Lane-Moore,5986.9
+0,762,359,Evans PLC,27240.8
+1,763,1952,Hill Martin and Baker,48138.48
+0,764,130,Bailey Ltd,71140.32
+0,765,2349,Williams Bowman and Hernandez,6712.22
+0,766,496,Duffy Cannon and Morgan,16164.9
+0,767,2318,Myers Scott and Valdez,38565.64
+0,768,2993,Jacobs Thompson and Irwin,75524.26
+0,769,63,Johnson-Lamb,67985.69
+0,770,1436,Johnson and Sons,64063.84
+0,771,1898,Johnston Ltd,41220.61
+1,772,1727,Hill Gutierrez and Ortiz,79359.49
+0,773,2951,Murphy Silva and Hubbard,49508.55
+0,774,1224,Rogers-Richardson,19293.83
+1,775,546,Ray Ltd,36359.21
+1,776,1462,Martinez-Spencer,3483.62
+0,777,2940,Zimmerman Inc,34481.97
+0,778,1573,Lane Butler and Gill,53434.2
+0,779,2085,Chambers PLC,78683.16
+0,780,1241,Carlson Baldwin and Pearson,1449.18
+0,781,2482,Baker Hill and Wright,51922.48
+0,782,311,Buckley Inc,63860.12
+0,783,1987,Clay-Williams,59939.88
+0,784,622,Thompson PLC,39660.92
+1,785,680,Anderson Inc,29657.12
+0,786,1642,Henry-Chang,53212.55
+0,787,171,Stewart and Sons,14734.18
+0,788,2191,Lang-Steele,20149.42
+0,789,1755,Mitchell LLC,11852.52
+0,790,169,Adams Ltd,7905.26
+0,791,999,Briggs-Dorsey,16142.5
+0,792,818,Sanders Price and Hunter,37867.7
+0,793,555,Mercer Ltd,10159.45
+0,794,800,Greene-Smith,73309.02
+0,795,1001,Lewis-Taylor,23809.08
+0,796,2670,Montgomery Phelps and Schultz,79980.63
+0,797,2679,Gonzalez-Vega,53632.47
+0,798,2640,Robinson Ltd,39408.57
+0,799,1182,Snyder Mcclain and Stewart,76209.35
+0,800,318,Jordan-Williams,67605.81
+0,801,1137,Sparks LLC,79004.87
+0,802,1554,Munoz Serrano and Taylor,2177.23
+0,803,778,Sandoval Green and Valenzuela,31361.1
+0,804,1411,Ramirez-Baker,45799.78
+0,805,2721,Butler Thompson and Frey,20231.78
+0,806,1907,Parker-Duran,45267.92
+0,807,2813,Zuniga Campos and Turner,56680.63
+0,808,1149,Shea Dean and Garcia,28098.77
+0,809,752,Dickerson LLC,31727.93
+0,810,2719,Salazar Ltd,8446.39
+1,811,492,Castillo Howard and Jones,79038.55
+0,812,2341,Jackson Anderson and Hudson,43283.32
+0,813,1700,Parker and Sons,21872.97
+0,814,1048,Buchanan Padilla and Gordon,57940.44
+0,815,1316,Shaw Inc,63919.66
+0,816,557,Payne Reyes and Guzman,11876.6
+0,817,1311,Galloway Ltd,4637.65
+0,818,19,Clark Hernandez and Bass,46768.87
+1,819,1,Jennings Group,19017.04
+1,820,1767,Carpenter Inc,66479.9
+0,821,1468,Stewart-Harris,9492.21
+0,822,1145,Sparks LLC,65341.5
+0,823,1406,Chen Snyder and Gonzalez,57202.06
+0,824,65,Reynolds Ross and Myers,43775.83
+1,825,2124,Miller-Price,75250.8
+0,826,2288,Hoffman-Williams,69600.78
+0,827,2475,Davis Ltd,48148.82
+0,828,670,Wilson-Dixon,8450.5
+1,829,1042,Sutton-Lutz,45126.95
+0,830,1119,Crosby and Sons,17014.43
+0,831,2988,Perry and Sons,49113.45
+0,832,1688,Nielsen-Williams,71007.88
+0,833,2624,Saunders and Sons,25368.81
+0,834,2769,Cruz Simpson and Carr,36671.12
+0,835,1905,Caldwell Ltd,76208.13
+0,836,884,Smith-Love,18235.49
+0,837,2023,Robinson-Meyer,25514.33
+0,838,1276,Smith-Nguyen,20855.92
+0,839,508,Parker-Lewis,37441.16
+0,840,923,Greene Underwood and Bird,37880.62
+0,841,992,Buchanan-Romero,35793
+0,842,1478,Ramirez-Chen,39883.64
+0,843,1254,Duncan Lopez and Armstrong,1119.63
+0,844,2327,Brown PLC,35010.44
+0,845,499,Dunn PLC,25833.89
+0,846,1015,Torres Miller and Stewart,47910.99
+0,847,1356,Gutierrez-Wyatt,59709.31
+0,848,813,West-Morris,69813.37
+0,849,1754,Clements Hernandez and Poole,25638.93
+0,850,850,Hall Ltd,27068.52
+0,851,1106,Myers Wright and Fuller,67607.72
+0,852,2547,Mejia Group,26722.4
+0,853,2234,Jackson Inc,40374.36
+0,854,2903,Edwards-Webb,68408.22
+0,855,1339,Moore Ltd,38645.63
+0,856,601,Martinez Group,49503.72
+0,857,1222,Roberts Rice and Peterson,70051.68
+0,858,2264,Oconnor-Lambert,50142.26
+0,859,730,Edwards-Bridges,77937.4
+0,860,748,Wolfe Jones and Rice,71381.65
+0,861,1862,Medina Becker and Vaughn,32989.04
+0,862,2128,Williams-Chapman,57105.22
+0,863,1658,Taylor-Wilson,15796.84
+0,864,506,Woods-Salas,49621.67
+0,865,1089,Daniel-Bell,11815.87
+0,866,2479,Mejia Hayes and Stone,73247.12
+0,867,747,Perry LLC,26329.22
+0,868,913,Smith and Sons,12491.76
+0,869,1561,Haynes Ltd,62962.36
+0,870,857,Shannon-Pennington,73489.26
+0,871,2398,Johnson Howard and Snow,22790.37
+0,872,973,Watts Lewis and Griffin,39175.81
+1,873,1053,Smith Barton and Gutierrez,37862.6
+0,874,67,Stevens-White,16063.22
+0,875,2245,Flores-Stewart,71273.5
+0,876,1796,Coleman Joseph and Stanley,45081.13
+0,877,615,Watts Group,20840.99
+0,878,2553,Walker Group,33088.13
+0,879,734,Castillo Pacheco and Walsh,1888.63
+0,880,2179,Wallace-Burgess,65712.25
+0,881,674,Parker Johnson and Hayes,56880.78
+0,882,2509,Watson Brown and Hernandez,58922.33
+0,883,910,Garza LLC,46024.58
+0,884,1650,Cook-Ramos,20660.17
+0,885,2690,King Reed and Guzman,62880.32
+0,886,268,Collins Ltd,67856.84
+0,887,2167,Mack Evans and Coffey,12560.96
+0,888,1491,Rhodes Kim and Estes,8198.27
+0,889,1985,Melton-Smith,51061.73
+0,890,599,Watts Casey and Sellers,8694.84
+0,891,2498,Johnson-Valenzuela,36941.41
+0,892,2518,Brown-Holland,52821.47
+0,893,522,Banks Group,28614.01
+0,894,1439,Smith Smith and Kennedy,14649.66
+0,895,2265,Cabrera Bradford and Santiago,43037.74
+0,896,1884,Craig Group,24320.31
+0,897,869,Leonard-Charles,32421.27
+0,898,1085,Hudson Mccullough and James,20292.98
+0,899,742,White LLC,31320.83
+0,900,675,Walter-Smith,35175.7
+0,901,1190,Kirby Thompson and Smith,28865.19
+0,902,468,Lopez-Henderson,66171.04
+0,903,122,Park-Thompson,20998.91
+0,904,1787,Kelley Shannon and Jones,15627.07
+0,905,434,Mcmillan PLC,69549.34
+0,906,1389,Meyer Group,72542.72
+1,907,2345,Jenkins-Mclean,59043.85
+0,908,2052,Dickerson Willis and Fischer,13525.01
+0,909,607,Maxwell-Andrade,32406.98
+1,910,497,Campos PLC,44992.94
+1,911,166,Pearson-Rivera,2744.24
+0,912,2799,Boyd-Valdez,45692.23
+0,913,363,Simpson PLC,71599.47
+1,914,1647,Clarke Cherry and Glass,40709.47
+0,915,1131,Green Conner and Estrada,55013.56
+0,916,1685,Roman-Hardy,1220.72
+0,917,1153,Whitehead Shea and Lopez,18536.4
+0,918,2113,Davis LLC,28001.34
+0,919,445,Oconnell Smith and Mason,53451.37
+0,920,1921,Hernandez-Williams,54597.65
+0,921,2964,Day-Colon,6039.26
+0,922,1978,Duncan-Hernandez,78728.86
+0,923,2427,Potter-Gray,46452
+0,924,1140,Perry-Morris,30762.2
+0,925,1815,Woodard Inc,59445.65
+0,926,142,Marsh Taylor and Blake,48087.48
+0,927,2293,Keller Anderson and Blair,44039.09
+0,928,270,Jackson-Ingram,37819.59
+0,929,5,Gillespie Group,1732.32
+0,930,400,Carpenter Arellano and Mora,29657.07
+0,931,591,Miller Moody and Perry,57186.39
+0,932,2257,Peterson-Goodman,54591.85
+0,933,536,Rogers-Lewis,78646.99
+0,934,2851,Parker Davis and Copeland,25739.26
+0,935,746,Blackwell Franklin and Burns,56885.29
+1,936,635,Friedman PLC,15605.65
+0,937,1234,Aguilar-Stewart,71551.46
+1,938,107,Smith Group,11736.28
+0,939,1799,Jones Buchanan and Owen,77019.5
+0,940,1830,Russell Gonzalez and Harding,22613.65
+0,941,2980,Carlson-Pittman,5212.55
+0,942,1821,Campbell-Nichols,66773.56
+0,943,1214,Cunningham Simon and Robinson,64620.34
+0,944,2728,Brennan-Hunter,67112.85
+0,945,775,Thomas Ward and Watson,75650.21
+0,946,294,Massey and Sons,53978.15
+0,947,1066,Young Ltd,71175.92
+0,948,896,Adams Garcia and Hughes,3905.33
+0,949,1881,Phillips Bates and Smith,48330.47
+0,950,2402,Chavez Reynolds and Carr,66040.89
+0,951,1793,Juarez Peters and Hobbs,65690.32
+0,952,1164,Barrett LLC,25362.05
+0,953,2250,Hancock-Hamilton,76873.39
+0,954,2892,Santiago-Anderson,53273.07
+0,955,933,Jefferson Ltd,52105.6
+0,956,460,Mitchell Wright and Hill,16115.91
+0,957,2141,Hernandez-Francis,49581.98
+0,958,1645,Robinson Ltd,34166.37
+1,959,129,Perez Adams and Mendoza,65297.51
+0,960,1262,Vaughn Richards and Thompson,27439.27
+0,961,1648,Hernandez-Mcclure,40939.61
+0,962,288,Davis Marshall and Wagner,43449.14
+0,963,1675,Johnson-Pearson,55002.49
+0,964,1298,Schmidt-Harris,46366.99
+0,965,1848,Dunn Blackwell and Ortiz,54116.79
+0,966,2120,Sanders Phillips and Gonzalez,62117.63
+0,967,2290,Anderson PLC,4083
+0,968,1054,Lang James and Gray,37967.95
+0,969,1155,Parker-Rodriguez,69265.77
+0,970,1757,Gonzales-Dunn,30285.61
+0,971,729,Williams-Garza,30038.8
+0,972,2339,Matthews Hopkins and Green,66644.2
+0,973,983,Watts-Mueller,32542.79
+0,974,1779,Fitzpatrick Inc,28216.68
+0,975,2631,Becker Ltd,70754.35
+0,976,2924,Hart Johnson and Rosario,40508.81
+0,977,2815,Ramirez Boone and Wilson,19180.66
+0,978,2464,Hahn-Peterson,66097.15
+0,979,2731,Spears PLC,71449.31
+0,980,1942,Yoder-Garrett,4385.23
+0,981,2429,Coleman Gomez and Anderson,79508.3
+0,982,2583,Padilla Ritter and Edwards,40558.4
+0,983,1188,Larson-Tyler,57148.7
+0,984,34,Rios and Sons,38680.76
+0,985,427,Guerrero Inc,45284.45
+1,986,227,Murphy Garza and Lee,77166.79
+0,987,1391,Butler Garcia and Cooper,2683.79
+0,988,858,Gregory Roy and Floyd,13469.09
+0,989,2834,Morales Fitzgerald and Collins,64200.82
+0,990,814,Sanchez-Chavez,8129.92
+0,991,1983,Mcdaniel Diaz and Vaughan,46223.1
+0,992,2031,Cortez Ltd,24395.88
+0,993,1329,Brown Johnson and Wilkins,44177.72
+0,994,1964,Barajas-Ho,20127.28
+0,995,864,Hoffman Bell and Vaughn,46197.21
+0,996,1073,Simmons Nguyen and Trujillo,44718.25
+0,997,2118,Little and Sons,18313.82
+0,998,1248,Duke LLC,4970.22
+0,999,1689,Henry Taylor and Long,31064.54
+0,1000,455,Smith-Robinson,46720.45
+0,1001,1709,Thompson-Bell,46601.09
+0,1002,1980,Murray Hebert and Thomas,59079.43
+1,1003,2535,Cooper and Sons,50826.46
+0,1004,2468,Rivera and Sons,67172.43
+0,1005,1886,Jimenez-Cruz,63107.61
+0,1006,2080,Cohen Inc,8202.06
+0,1007,1361,Austin-Weaver,63181.27
+0,1008,1883,Ballard Long and Williams,1893.07
+0,1009,2362,Weaver-Johnson,3932.93
+0,1010,451,Goodman Meyer and Baker,32305.05
+0,1011,1655,Wells-Clayton,49254.59
+0,1012,2810,Ayala-Molina,61710.45
+0,1013,1318,Vega Baldwin and Hawkins,42517.74
+0,1014,569,Wilson Carter and Estrada,55489.08
+0,1015,82,Brown Scott and Chambers,36694.59
+0,1016,1105,Bowman-Peck,58559.33
+0,1017,1775,Harris PLC,51396.71
+0,1018,2513,Jensen-Coleman,31514.02
+0,1019,1912,Harper-Henson,30333.16
+0,1020,911,Hull and Sons,74027.36
+0,1021,1697,Brown Martin and Villegas,25664.58
+1,1022,123,Cuevas James and Larson,10381.88
+0,1023,1271,Hendricks Inc,26857.14
+0,1024,1245,Wright-Potter,33335.6
+0,1025,320,Miller LLC,61076.82
+0,1026,2554,Leblanc Group,45206.58
+0,1027,770,James-Mata,56690.32
+0,1028,2343,Jackson Davis and Cowan,17165.49
+0,1029,1103,Morales-Ramos,69902.79
+0,1030,1069,Mcmillan-Ware,56622.72
+0,1031,464,Williams PLC,46356.52
+0,1032,950,Palmer-Hickman,48090.34
+0,1033,338,Singleton and Sons,68095.82
+0,1034,1901,Thomas-Nielsen,18854.64
+0,1035,1578,Stevenson-Alexander,23101.52
+0,1036,1120,Fisher-Nelson,48825.26
+0,1037,2775,Hill Bell and Maxwell,52354.55
+0,1038,1397,George Group,34837.95
+0,1039,2458,Wilson LLC,56474.76
+0,1040,1208,Brown Garcia and Mendoza,10607.43
+0,1041,1167,Smith and Sons,28707.41
+0,1042,1129,Holmes Group,27601.36
+0,1043,2632,Christian-Phillips,51125.92
+1,1044,1999,Gregory Odonnell and Richard,64053.41
+0,1045,953,Turner-Phillips,62152.88
+0,1046,178,Quinn Harmon and Hernandez,25664.38
+0,1047,1027,Reed Schneider and Young,11366.36
+0,1048,149,Meyers-Jordan,36106.91
+0,1049,2860,Townsend-Ferguson,47071.99
+0,1050,2153,Doyle Ltd,10240.92
+0,1051,1802,Johnson PLC,59589.44
+0,1052,1177,Adams-Smith,71718.26
+0,1053,1729,Matthews LLC,10818.52
+0,1054,1560,Fernandez PLC,1928.15
+0,1055,667,Rodriguez-Martinez,47920.09
+0,1056,875,Thompson-Griffin,37550.27
+0,1057,1920,Price Group,7791.39
+0,1058,1811,Robinson-Love,38321.48
+0,1059,1847,Torres-Williams,47598.51
+0,1060,1116,Clark-Kennedy,9963.82
+0,1061,2938,Schneider Maldonado and Perez,5884.74
+0,1062,1369,Garcia Bonilla and Burke,66623.8
+0,1063,1940,Smith Group,42445.7
+0,1064,1539,Knight Group,27443.66
+1,1065,2278,Mccullough Ltd,23160.25
+0,1066,2683,Rodriguez and Sons,13686.37
+0,1067,494,Cooper Underwood and Golden,61442.19
+0,1068,2246,Hall Inc,37719.97
+0,1069,540,Jimenez-Moore,40413.6
+0,1070,1342,Hill Holland and Townsend,68229.88
+0,1071,310,Robles Fuller and Rasmussen,77398.39
+1,1072,2534,Vazquez Wilson and Hale,15553.3
+0,1073,2221,Rodriguez Inc,58488.44
+0,1074,176,Cook-Bolton,72597.21
+0,1075,442,Chen LLC,69812.03
+0,1076,1690,Wu Barron and Hernandez,71212.45
+0,1077,563,Park-Stewart,33167.8
+0,1078,100,Herring Lara and Butler,11375.82
+0,1079,2136,Zhang Reid and Watson,67197.94
+0,1080,1819,Stephenson-Sloan,40941.44
+0,1081,1381,Ramos and Sons,58665.83
+0,1082,681,Washington and Sons,23876.49
+0,1083,1612,Costa Mitchell and Miller,7377.91
+0,1084,2035,Ramirez-Waller,60401.62
+1,1085,1022,Wilkinson-Allen,60233.09
+0,1086,1513,Jones-Hernandez,18689.18
+0,1087,1956,Munoz Group,49895.4
+0,1088,1585,Johnson LLC,39443.25
+0,1089,809,Shaw-Koch,14624.09
+0,1090,484,Smith Mclaughlin and Dawson,48364.54
+0,1091,1235,Coleman Robinson and Vaughn,38686.85
+0,1092,2239,Ellis-Wright,70673.57
+0,1093,1097,Singh-Phillips,39233.88
+0,1094,2928,Williams Mills and Farrell,30956.25
+0,1095,1801,Harrison-Nelson,6895.52
+0,1096,1596,Hernandez-Williams,54270.95
+0,1097,1045,Fox Ltd,4290.93
+0,1098,179,West-Hudson,67994.26
+0,1099,375,Garcia-Garcia,73704.41
+1,1100,2494,Allen Ltd,52122.61
+0,1101,1835,Lee-Martin,63028.19
+0,1102,1016,Moore-Jones,42006.77
+0,1103,1986,Thompson Gonzalez and Turner,72467.72
+0,1104,2467,Collins-Kramer,49630.92
+0,1105,465,Coleman Martinez and Oliver,63213.02
+0,1106,794,West Anthony and Perez,21824.98
+0,1107,1716,Berg-Garrett,38867.45
+0,1108,2253,Larsen LLC,2932.47
+0,1109,568,Palmer-Hooper,78187.34
+0,1110,1283,Callahan LLC,72822.86
+0,1111,1505,Austin Wright and Daugherty,71275.67
+1,1112,1221,Thompson-Glass,44074.1
+0,1113,565,Davis Singleton and Moran,60408.85
+0,1114,2447,Singh Dyer and Campbell,69662.41
+0,1115,2182,Duffy-Roberson,14995.7
+0,1116,866,Hayes PLC,12818.98
+0,1117,145,Hughes Ltd,76773.8
+1,1118,777,Thomas Oneill and Harris,34230.31
+0,1119,2024,Hunt Inc,49244.56
+0,1120,481,Smith Ltd,22221.2
+0,1121,1509,Reeves-Graham,55166.21
+0,1122,1981,Russo-Schultz,64909.86
+0,1123,1442,Reed Robles and Mcdonald,41575.53
+0,1124,1807,Jones Ltd,40725.43
+0,1125,2344,Welch Stanton and Irwin,32014.95
+0,1126,1447,Jacobs-Larson,10911.28
+0,1127,507,Smith Inc,57935.7
+0,1128,448,Smith Sanchez and Schmidt,79697.7
+0,1129,693,Roberts Lewis and Bennett,11959.53
+0,1130,1362,Ortiz Clark and Riddle,56823.04
+1,1131,2596,Taylor-Baird,14684.89
+0,1132,1863,Ortega Ltd,32581
+0,1133,64,Salazar LLC,29895.27
+0,1134,596,Carrillo Caldwell and Fitzgerald,33028.64
+1,1135,941,Blake-Martinez,33857.64
+0,1136,1456,White Reilly and Campbell,62169.22
+0,1137,2994,Montgomery Robinson and Calhoun,3717.44
+0,1138,578,Smith Torres and Perez,49754.13
+0,1139,783,Mcclure PLC,1258.62
+0,1140,1936,Torres-Roberts,15622.58
+0,1141,776,Martin-Jackson,77131.19
+0,1142,2862,Sanders Frost and Jordan,69945.04
+0,1143,287,Cunningham Inc,23797.31
+0,1144,2783,Young-Griffith,2874.65
+0,1145,547,Johnson Jackson and Cook,49717.58
+0,1146,2298,Wade Davis and Bond,34477.85
+0,1147,1574,Adams PLC,22405.44
+0,1148,2925,Taylor-Ferguson,40457.36
+0,1149,1998,Martinez Ltd,68028.5
+0,1150,483,Schmitt-Torres,65191.12
+0,1151,1366,Sullivan Guzman and Gonzales,72614.8
+0,1152,2227,Weaver Burton and Becker,22527.12
+0,1153,1577,Ballard-Holland,55252.23
+0,1154,803,Hall and Sons,63938.79
+0,1155,580,Gordon Group,69995.42
+0,1156,1502,Thomas PLC,77945.78
+0,1157,1632,Mcdonald LLC,59157.56
+1,1158,1480,Buchanan PLC,75682.55
+0,1159,2401,Johnson-Johnson,15814.62
+0,1160,2681,Weaver Crawford and Jenkins,34574.22
+0,1161,23,Soto PLC,62950.57
+0,1162,2562,Nguyen and Sons,50993.37
+0,1163,15,Navarro Curtis and Murray,29941.86
+0,1164,2629,Bryant Baker and Jones,57534.14
+0,1165,2199,King Bender and Burgess,58327.67
+0,1166,2491,Boone-Caldwell,71595.75
+0,1167,2748,Williams-Garrett,61839.44
+0,1168,2039,Smith-Boyd,36012.69
+0,1169,1296,Thompson-Fleming,56720.01
+0,1170,2438,Lam Hunt and Chapman,20905.11
+0,1171,409,Atkinson and Sons,6050.99
+0,1172,1951,Koch Ltd,78583.91
+0,1173,855,Gutierrez Mathis and Mullen,78574.97
+0,1174,1459,Mckee PLC,38631.86
+0,1175,2387,Winters LLC,56455.82
+0,1176,598,Hampton Austin and Murphy,32676.37
+0,1177,2361,Knight Group,27607.1
+0,1178,1875,Thomas-Pearson,31374.57
+0,1179,1063,Gonzalez White and Wiley,10226.09
+0,1180,502,Smith Webster and Duke,48969.71
+0,1181,543,Rodriguez Thompson and Taylor,54946.16
+0,1182,1141,Moore Johns and Noble,75941.48
+0,1183,2192,Brooks-Gonzalez,71978.07
+0,1184,2688,Hernandez Paul and Calhoun,16770.43
+0,1185,2655,Valencia Baker and Lopez,67365.32
+0,1186,53,Roach Group,34774.64
+0,1187,1718,Schultz Simmons and Rodriguez,38540.5
+0,1188,1823,Burton Group,58718.5
+0,1189,1666,Edwards Clark and Mclaughlin,40228.59
+0,1190,2289,Thomas-Page,25978.1
+0,1191,900,Robertson Ltd,67050.03
+0,1192,189,Juarez-Richards,31644.13
+0,1193,609,Khan Tyler and Mcclain,52652.62
+0,1194,2415,Bell-Cooper,74626.43
+0,1195,2017,Ramos Collins and Whitehead,52518.69
+0,1196,1269,Chavez Inc,75297.52
+0,1197,2507,Harris Smith and Suarez,48313.24
+0,1198,996,Marks-Hull,56136.84
+0,1199,758,Sanchez-Collins,69396.01
+0,1200,1340,Turner Ltd,35506.83
+0,1201,757,Armstrong Ltd,70994.04
+0,1202,709,Drake Myers and Roach,24322.26
+0,1203,2099,Montoya LLC,31090.15
+0,1204,2304,Carter Ltd,64077.04
+0,1205,2086,Schmidt-Anderson,74668.93
+0,1206,2230,Thompson Frost and Gallegos,18943.58
+0,1207,1531,Miller Ltd,30732.11
+0,1208,2760,Mcbride Shaw and Bullock,6939.28
+0,1209,2845,Mcdonald Dawson and Greer,40420.93
+0,1210,2256,Anderson PLC,67289.62
+0,1211,2174,Cabrera Christensen and Anthony,16238.78
+0,1212,1312,Davidson Cooper and Warren,4159.27
+0,1213,1492,White-Watson,40193.67
+0,1214,2326,Padilla LLC,69911.84
+0,1215,146,Jordan LLC,25769.42
+0,1216,18,Nguyen-Ross,1140.12
+0,1217,1657,Humphrey and Sons,73541.05
+0,1218,1749,Jones-Roy,74601.95
+0,1219,2761,Castillo Inc,12208.81
+0,1220,2870,Brooks-Clements,57416.33
+0,1221,1659,Butler Inc,26131.48
+0,1222,766,Vasquez Sanders and Cunningham,38534.55
+0,1223,1845,Holt Christian and Mora,51995.45
+0,1224,1143,Wallace-Holmes,48281.21
+0,1225,883,Brown Lee and Williams,70202.57
+1,1226,1076,Smith-Wong,5643.4
+0,1227,2659,Bowman Frederick and Wiley,57469.1
+0,1228,1093,Phillips LLC,13713.31
+0,1229,2001,Middleton Jones and Montoya,10357.77
+0,1230,2590,Rivera Hoffman and Mills,33229.05
+0,1231,384,Keith-Cooley,45244.23
+1,1232,2684,Russo Ltd,51387.9
+0,1233,1402,Cooley-Taylor,10088.36
+0,1234,1215,Mejia-Spears,25704.23
+0,1235,2866,Rose-Jones,42765.08
+0,1236,2693,Jones PLC,27919.33
+0,1237,918,Campbell-Robinson,37659.8
+0,1238,1204,Grant-Rosales,76055.04
+1,1239,895,Skinner Brooks and Evans,23789.38
+0,1240,530,Finley and Sons,48475.86
+0,1241,1995,Barnett Coleman and Dennis,14553.78
+0,1242,2021,Cisneros Miller and Reynolds,74819.72
+0,1243,1227,Vincent-Evans,9145.53
+0,1244,2780,Reyes and Sons,19343.95
+0,1245,1844,Tucker-Thompson,4673.4
+0,1246,2486,Williams Henry and Li,48615.23
+0,1247,2055,Duncan PLC,18547.5
+0,1248,2091,Bennett West and Andrews,41003.6
+0,1249,1028,Meyer LLC,39277.42
+0,1250,42,Hudson Inc,60896.85
+0,1251,2622,Wright-Brown,28682.74
+0,1252,2571,Jimenez PLC,34860.82
+0,1253,556,Ferguson Brandt and Ellison,57037.68
+0,1254,2347,James and Sons,72846.83
+0,1255,96,Hawkins LLC,67252.46
+0,1256,2922,Black-Vasquez,34483.01
+0,1257,1185,Green PLC,29846.72
+0,1258,2295,Harris PLC,3625.7
+0,1259,1630,Pearson PLC,49241.03
+0,1260,1422,Johnson-Williams,70227.34
+0,1261,2490,Herman Garcia and Ward,52098.05
+0,1262,1681,Weber PLC,53238.89
+0,1263,1962,Hatfield Daniels and Bond,12792.75
+0,1264,1282,Mccarthy-Bell,38071.01
+0,1265,2217,Robinson-Dean,8937.55
+1,1266,1945,Bell LLC,23528.56
+0,1267,2158,Allen-Boone,35318.23
+0,1268,967,Harris Conley and Dixon,23446.59
+0,1269,1719,Ortiz Inc,1064.48
+0,1270,1021,West-Case,5823.63
+0,1271,1965,Rivas-Tyler,18093.44
+0,1272,817,Moss Reynolds and Rogers,69948.69
+0,1273,282,Morris-Hernandez,76328.52
+0,1274,2654,Smith LLC,49667.71
+0,1275,324,Delgado Moreno and Rodriguez,74224.53
+0,1276,2883,Jackson PLC,71386.06
+0,1277,754,Banks Hurley and Johnson,37032.35
+0,1278,560,Smith Nelson and Johnson,77445.83
+0,1279,13,Hunt PLC,15414.5
+0,1280,2588,Mullen Ellis and Smith,56672.77
+0,1281,376,Tyler Ltd,34522.8
+0,1282,385,Glass Terrell and Hicks,26159.65
+0,1283,889,Knapp Mcmillan and Obrien,35151.68
+0,1284,1012,Parks-Williams,18794.13
+0,1285,2426,Green Proctor and Caldwell,2874.23
+0,1286,1562,Wright-Blankenship,79526.48
+0,1287,114,Ferrell Thomas and Sims,19063.05
+0,1288,2805,Dyer and Sons,50985.23
+0,1289,1943,Gonzales PLC,41489.56
+0,1290,1785,Duarte PLC,29636.18
+0,1291,39,Taylor LLC,21349.37
+0,1292,1034,Lopez-Myers,64966.09
+0,1293,2782,Fischer Miller and Miller,29843.59
+0,1294,2416,Jones and Sons,33896.46
+0,1295,2896,Beltran-Santos,77868.46
+0,1296,21,Garcia and Sons,29755.99
+0,1297,7,Garner Inc,63339.86
+0,1298,927,Thomas-Johnson,59981.95
+0,1299,1383,Church and Sons,55654.83
+0,1300,2918,Leon Sosa and Mckinney,75650.34
+0,1301,498,Green LLC,45277.26
+0,1302,281,Lopez Ltd,3762.45
+0,1303,362,Dawson-Perez,5156.87
+1,1304,1751,Tran-Wade,18401.24
+0,1305,2461,Williams Group,14334
+0,1306,2323,Nguyen Group,39772.1
+0,1307,1955,Wright-Harris,13645.22
+0,1308,1734,Mcfarland Davila and Martin,68204.41
+0,1309,267,Flowers Ltd,61085
+0,1310,1856,Chambers Group,41438.42
+0,1311,1853,King-Miller,40625.82
+0,1312,1375,Garcia Wilcox and Bailey,25773.13
+0,1313,865,Chavez-Hill,32191.62
+0,1314,2222,Chang Mathis and Barton,22106.81
+0,1315,1203,Curtis Ltd,2112.83
+0,1316,2036,Ochoa Garza and Russo,45951.06
+0,1317,606,Parker-Graham,72825.25
+0,1318,2653,Petty-Yates,79350.42
+0,1319,2521,Beasley Simon and Meadows,48704.68
+0,1320,903,Alexander Inc,40179.73
+0,1321,2694,Brown-Baker,17709.31
+0,1322,2450,Mason Henry and Anderson,29444.25
+0,1323,997,Combs Inc,32359.7
+0,1324,2886,Short PLC,62627.03
+0,1325,1828,Walker Group,45880.13
+0,1326,1957,Beck and Sons,62519.59
+0,1327,600,Morgan-Jones,54240.95
+0,1328,2519,Jackson Inc,39537.46
+0,1329,489,Smith-Hall,31182.28
+0,1330,1870,Ortiz Avila and Young,58815.49
+0,1331,1916,Lopez-Dunn,25305.21
+0,1332,2351,Ellison-Horne,63759.61
+0,1333,491,Bell Olson and Shepard,52742.42
+0,1334,2926,Vargas Fletcher and Mcdowell,57270.87
+0,1335,1253,Carter-Kelly,19949.08
+0,1336,411,Baldwin LLC,24245.95
+0,1337,1452,Chan Ltd,69908.25
+1,1338,1858,Hernandez Inc,51607.17
+0,1339,2346,Joyce Group,15083.35
+0,1340,2977,Montoya-Everett,21262.57
+0,1341,785,Gonzalez-Martin,1056.89
+0,1342,659,Ramos Inc,61474.14
+0,1343,365,Mullins-Roach,16586.69
+0,1344,290,Roman LLC,13086.83
+0,1345,2933,Chandler-Williams,61031.83
+0,1346,2882,Franklin Group,27537.69
+0,1347,187,Bell Ltd,41908.87
+0,1348,1805,Ayala Smith and Hughes,54704.02
+0,1349,1818,Watson-Mckinney,4102.06
+0,1350,2177,Kelly Ltd,33401.11
+0,1351,1238,Rollins Inc,28877.6
+0,1352,2526,Cunningham LLC,20145.97
+0,1353,1230,Johnson and Sons,28563.75
+0,1354,2750,Taylor Galvan and Evans,35595.77
+0,1355,429,David-Henderson,23129.74
+0,1356,1482,Pennington Delgado and Harris,7412.29
+0,1357,2720,Smith PLC,22032.45
+0,1358,2119,Phillips-Patterson,8108
+0,1359,2009,Williams and Sons,28544.35
+0,1360,1711,Boyle-Harris,28524.85
+0,1361,1333,Williams-Stewart,56928.33
+0,1362,9,Avila Rollins and Johns,3248.48
+0,1363,136,Reed Cohen and Alvarez,74577.31
+0,1364,379,Gaines Group,37847.68
+0,1365,148,Williams-Hunter,64341.12
+0,1366,666,Rubio-Hamilton,21955.88
+0,1367,1825,Johnson PLC,12643.2
+0,1368,639,Mayo Inc,4029.88
+0,1369,1820,Hanson LLC,75265.8
+0,1370,389,Mitchell Ltd,60316.37
+0,1371,539,Stein Group,16438.3
+0,1372,1002,Kim Snyder and Henry,30671.33
+0,1373,1543,Larsen-Young,54263.97
+0,1374,2735,Mack Grimes and Griffin,9836.62
+0,1375,2399,Gomez Inc,18885.45
+0,1376,1309,Ray Cooper and Jackson,9791.59
+0,1377,1372,Sparks-Gordon,36367.06
+1,1378,1325,Singh-Cole,11463.55
+0,1379,238,Espinoza Landry and Fisher,79137.03
+0,1380,374,Hurst and Sons,53222.6
+0,1381,1156,Smith-Pineda,54754.9
+0,1382,296,Giles PLC,42367.78
+0,1383,1888,Bowman Soto and Andrews,54783.9
+0,1384,2241,Davis Horton and Herrera,8373.99
+0,1385,1175,Jackson Craig and Adams,36659
+0,1386,2356,Robbins-Love,48944.53
+0,1387,2143,Davis Lewis and Barry,9430.17
+0,1388,50,Garcia-Hernandez,47284.43
+0,1389,46,Burke Novak and Powell,18120.38
+0,1390,2003,Jones-Watts,9675.62
+0,1391,1195,Ramirez Peterson and Brown,39264.07
+0,1392,626,James Group,25572.55
+1,1393,662,Meyer-Hall,71528.99
+0,1394,1026,Harris LLC,2391.16
+0,1395,2599,Gonzalez Davis and Reese,16625.28
+0,1396,388,Ruiz Cabrera and Ortega,55219.33
+0,1397,1246,Sanchez and Sons,39013.85
+0,1398,2181,Davis Smith and Gonzalez,9011.14
+0,1399,86,Harrington Johnson and Torres,78962.83
+0,1400,457,Gross PLC,2785.41
+0,1401,2876,Villegas Ltd,41833.45
+0,1402,2034,Wright PLC,42094.94
+1,1403,2014,Sanchez Ltd,56778.94
+0,1404,1760,Carroll LLC,67167.1
+0,1405,2335,Cook-Sanchez,50534.18
+0,1406,2911,Wood-Dougherty,36493.85
+0,1407,2413,Martinez PLC,72352.49
+0,1408,920,Bowen LLC,72527.81
+0,1409,2428,Coleman-Bridges,21412.35
+0,1410,1020,Rodriguez-Warner,28980.59
+0,1411,2083,Thompson Johnston and Costa,51124.42
+0,1412,739,Nguyen Grant and Wade,26865.11
+0,1413,926,Long Saunders and Garcia,9011.64
+0,1414,224,Cruz and Sons,15725.45
+0,1415,355,Fernandez-Vaughn,5994.43
+1,1416,1479,Mejia and Sons,4045.9
+0,1417,1649,Martin and Sons,38710.28
+0,1418,2306,Jarvis-Ramirez,46258.93
+0,1419,1864,Lee and Sons,60674.21
+1,1420,118,Brown LLC,43718.45
+0,1421,1111,Smith and Sons,48485.22
+0,1422,781,Santana Deleon and Rivera,40514.55
+0,1423,2466,Chang-Walker,66434.46
+0,1424,1833,Roberts Frye and Rodriguez,1959.93
+0,1425,2889,Brown-Bowen,29842.21
+0,1426,2020,Newton-Johnson,17717.83
+0,1427,392,Tran Inc,31859.6
+0,1428,2967,Bailey-Mitchell,59354.24
+0,1429,1982,Brown-Rogers,72978.34
+1,1430,37,Wheeler LLC,60504.83
+0,1431,2884,Gonzalez Group,77526.52
+0,1432,1065,Lopez PLC,53502.71
+0,1433,1518,Sanchez Inc,62057.59
+0,1434,2888,Snyder Inc,59659.61
+0,1435,435,Rodgers-Salazar,11328.49
+0,1436,353,Price-Sullivan,10179.78
+0,1437,1295,Thomas Henderson and Smith,37976.35
+0,1438,1408,Brown LLC,8060.51
+0,1439,649,Robinson PLC,59403.3
+0,1440,1091,Dixon Edwards and Brown,33371.67
+0,1441,1125,Mccormick Group,44636.37
+0,1442,2540,Jordan Shaw and Wells,48068.77
+0,1443,1969,Moore-Dean,21660.34
+1,1444,36,Roberts-Farmer,73357.01
+0,1445,2927,Ruiz Ltd,31419.86
+0,1446,1477,Anderson Espinoza and Anderson,63642.36
+0,1447,2592,Shaw and Sons,33302.69
+0,1448,41,Rivera-Brown,56488.31
+0,1449,631,Hawkins PLC,38778.93
+0,1450,1023,Davidson-Bates,9126.11
+0,1451,2582,Dean and Sons,26588.92
+0,1452,1586,Murphy Mendez and Huang,46950.74
+0,1453,2337,Murray and Sons,62350.08
+0,1454,199,Sawyer-Montgomery,45618.4
+0,1455,2932,Murray Group,58107.28
+0,1456,2704,Miller Mcknight and Huff,68771.51
+0,1457,2478,Brown Chen and Ballard,51599.41
+0,1458,947,Dyer Parks and Mason,72867.87
+0,1459,1582,Howe Payne and Lester,1100.86
+0,1460,441,Mann LLC,18693.46
+0,1461,2460,Grant Allen and Mcguire,25027.95
+0,1462,2841,Mitchell Stone and Christian,2315.65
+0,1463,1827,Atkinson-Fitzpatrick,44470.17
+0,1464,2275,Young-Peterson,61892.9
+0,1465,2959,Wallace Guerra and Nash,53763.87
+0,1466,2453,Harvey-Cook,72665.5
+0,1467,1558,Taylor PLC,79164.09
+0,1468,1547,Torres Mills and Lee,71509.62
+0,1469,456,Alvarado Fields and Moody,25363
+0,1470,2966,Johnson Miller and Nelson,43505.73
+0,1471,1671,Hendricks Inc,58882.42
+0,1472,116,Copeland Patton and Walker,8160.61
+0,1473,414,Burnett Nash and Hoover,48651.84
+0,1474,1930,Woods Mueller and Benson,15943.36
+0,1475,1368,Brewer Sharp and Miller,51697.97
+0,1476,330,Weber Ltd,75958.24
+0,1477,2774,Bowen LLC,65670.45
+0,1478,1101,Green PLC,42147.55
+0,1479,2852,Escobar Trevino and Reeves,32640.72
+0,1480,2007,Moore Ltd,58068.11
+0,1481,2913,Martin Hendricks and Wheeler,48553.97
+0,1482,2635,Johnson-Hampton,44803.38
+0,1483,92,Hurley Maxwell and Bradley,3689.03
+0,1484,1616,Reeves LLC,44866.96
+0,1485,1609,Jones Ltd,5148.18
+0,1486,793,Reese Walsh and Obrien,40792.72
+0,1487,2701,Shelton-Watson,51403.41
+1,1488,533,Manning Anderson and Dorsey,26694.91
+0,1489,852,Lawson Ltd,19615.54
+0,1490,517,Jones PLC,32657.56
+0,1491,174,Chapman-Lewis,60574.03
+0,1492,1831,Rogers-Henderson,33771.1
+0,1493,314,Griffin Johnson and Torres,13909.26
+0,1494,48,Heath Ltd,10322.58
+0,1495,1324,Brooks-Brown,32658.61
+0,1496,537,Lawrence and Sons,64288.54
+0,1497,768,Livingston-Juarez,62746.87
+0,1498,1123,Ross Inc,29355.8
+0,1499,333,Sutton-Price,71397.8
+0,1500,1708,Rodriguez Barber and Conway,18836.86
+0,1501,827,Friedman-Olsen,47080.25
+0,1502,2440,Duffy-Weber,65442.83
+0,1503,398,Harris-Johns,9263.76
+0,1504,286,Williams-Meza,4023.85
+0,1505,2790,Gonzales Cruz and Wright,36385.77
+0,1506,2821,Hall Ltd,71711.03
+0,1507,291,Mckinney Johnson and Summers,70104.79
+0,1508,951,Harris-Ferguson,31730.93
+0,1509,1404,Williams Daniel and Yang,50891.02
+0,1510,208,Parker Walters and Brooks,11009.25
+0,1511,2724,Davis Ball and Johnson,11946.79
+0,1512,2556,Miller-Bryant,78879
+0,1513,1576,Peterson PLC,54870.35
+0,1514,1331,Mack Cooper and Ross,22501.16
+0,1515,2382,Martinez Ltd,56894.1
+0,1516,655,Alvarez Ltd,66728.48
+0,1517,1564,Hunter-Brown,67839.6
+0,1518,2686,Johnson-Johnson,40401.74
+0,1519,1216,Mata Lucas and Greene,30926.7
+0,1520,2214,Marks Gibson and Ayers,13263.7
+0,1521,956,Greene Cox and Miller,5299.87
+0,1522,669,Maldonado-Mata,35426.31
+0,1523,2529,Martin PLC,33151.63
+0,1524,220,Bowers Young and Hernandez,79861.98
+0,1525,588,Mathis Kline and Carr,17683.61
+0,1526,1781,Soto-Gibson,46478.69
+0,1527,137,Waters Hubbard and Alvarado,52175.58
+0,1528,1510,Jackson Allen and Rogers,37691.26
+0,1529,2410,Harrison-Ross,69525.52
+0,1530,838,Boone and Sons,61623.38
+0,1531,1919,Morgan-Parker,71760.68
+0,1532,1355,Hatfield-Copeland,42221.42
+0,1533,721,Saunders PLC,49690.4
+0,1534,252,Avila Graham and Schmidt,76151.96
+0,1535,1809,Fry-Dorsey,47961.69
+0,1536,119,Ramirez Hunt and Hanson,4044.44
+0,1537,2223,Dean Ltd,2253.27
+0,1538,2229,Cooper-Turner,69475.46
+0,1539,1464,Berry Ltd,12394.79
+0,1540,2652,Cole Maynard and Robinson,34354.3
+0,1541,529,Vega Woods and Cain,69539.98
+0,1542,2075,Vasquez-Harris,63796.79
+0,1543,2484,Patel-Knight,76588.52
+0,1544,2104,Peterson-Long,54198.16
+0,1545,2334,Wright Robinson and Walker,24366.35
+0,1546,823,Harding-Friedman,14795.5
+0,1547,1130,Burgess-Campbell,20029.04
+0,1548,2563,Martin LLC,2567.65
+0,1549,2963,Haas-Lopez,57727.35
+0,1550,2456,Browning Group,66133.8
+0,1551,625,Henson Group,62692.4
+0,1552,1879,Owens-Keller,28332.8
+0,1553,17,Mcintosh-Franklin,42343.16
+1,1554,248,David Day and Strong,40334.65
+0,1555,165,Molina Inc,37733.33
+0,1556,292,Klein LLC,66835.09
+0,1557,1280,Burch Group,56054.87
+0,1558,2953,Smith Palmer and Johnson,42819.43
+0,1559,842,Elliott-Rojas,79075.08
+0,1560,262,Chavez-Martinez,61430.01
+0,1561,280,Davis Perry and Williams,66670.29
+0,1562,251,Lewis Ward and Walker,68188.72
+0,1563,810,Reynolds Group,6145.01
+0,1564,2476,Rose Ltd,9340.1
+0,1565,1559,Webb Gordon and Cook,60586.13
+0,1566,249,Hatfield-Boyd,21513.88
+0,1567,904,Chan Mendoza and Williamson,40663.42
+0,1568,930,Alvarado and Sons,55159.97
+0,1569,1472,Quinn Taylor and Gregory,22501.46
+0,1570,2115,Steele-Garcia,70885.86
+0,1571,2610,Wright Pearson and Harris,9865.15
+0,1572,1043,Paul Huff and Haley,65140.06
+0,1573,2657,Meyers-Tanner,63762.7
+0,1574,624,Mcguire PLC,41496.74
+0,1575,945,Alvarado-Morales,44670.7
+0,1576,72,Davis and Sons,37227.25
+0,1577,2531,Williams Inc,74103.67
+0,1578,2261,Dillon LLC,72387.85
+0,1579,549,Smith Carr and Nelson,61718.38
+0,1580,2270,Wright Moreno and Shelton,24513.12
+0,1581,1413,Taylor and Sons,66088.32
+0,1582,590,Johnson Hansen and Harper,23465.78
+0,1583,2863,Roy Inc,53136.17
+0,1584,2593,Rush-Lowery,43414.66
+0,1585,2116,Hurley LLC,75880.45
+0,1586,1384,Brown Ltd,61387.61
+0,1587,1417,Wright LLC,64786.85
+0,1588,2243,Strickland-Baker,17166.3
+0,1589,2801,Smith Hartman and Williams,60404.75
+0,1590,2407,Williams LLC,28236.09
+0,1591,1713,Jones-Sexton,79733
+0,1592,2986,Weaver Rivera and Klein,16266.22
+0,1593,2601,Jones-Whitaker,12241.1
+0,1594,796,Matthews Henry and Evans,46900.69
+0,1595,2557,Ball-Hatfield,66196.59
+0,1596,548,Yang Ltd,73305.08
+0,1597,1092,Pierce Ferguson and Booker,7192.6
+0,1598,1064,Hatfield Cross and Robinson,59947.84
+0,1599,1121,Richmond Inc,30078.53
+0,1600,2329,Johnson PLC,14592.04
+0,1601,2545,Smith PLC,7977.9
+0,1602,959,Bell Evans and Stark,9183.82
+0,1603,2048,Sanchez-Richardson,16785.5
+0,1604,2991,Hernandez Group,20943.4
+0,1605,581,Ramirez Group,28538.84
+0,1606,490,Green Ltd,75248.51
+1,1607,1527,Davis LLC,77049.65
+0,1608,2729,Jackson Miles and Rodriguez,49174.31
+1,1609,2305,Clark Fleming and Brown,27882.23
+0,1610,822,Jones Wyatt and Fernandez,31733.61
+0,1611,234,Estrada Carter and Fisher,11485.36
+0,1612,2249,Long Inc,62388.07
+0,1613,2307,Jackson-Flores,26477.69
+0,1614,2740,Lane Blair and Grant,74817.43
+0,1615,2698,Morris-Gillespie,14356.84
+0,1616,1740,Boyer Brewer and Skinner,20940.46
+0,1617,932,Jones Alvarez and Moore,33014.62
+1,1618,1139,Mccarty Mitchell and Garcia,44153.71
+0,1619,201,Stokes and Sons,25390.59
+0,1620,2260,Chase Lawrence and Wood,13226.9
+0,1621,2789,Green Davis and Schmitt,55869.12
+0,1622,1008,Carter Group,23135.47
+0,1623,317,Newton-Peterson,77353.01
+0,1624,1992,Weaver Rogers and Chen,37297.4
+0,1625,469,Cantu-Wood,31036.92
+0,1626,401,Barajas-Shelton,10709.39
+0,1627,300,Colon PLC,25688.66
+0,1628,577,Reynolds Barrett and Grimes,68511.62
+0,1629,156,Ross-Brown,16830.26
+0,1630,694,Macias Hutchinson and Washington,46682.37
+0,1631,2437,Murray Smith and Williams,26036.13
+0,1632,937,Carson-Gomez,76686.93
+0,1633,1259,Aguirre and Sons,16851.82
+0,1634,2247,Short and Sons,29060.78
+1,1635,907,Sharp-King,55314.84
+0,1636,2722,Patterson Blake and Chapman,30531.08
+0,1637,2802,Mcdonald-Brown,24409.46
+0,1638,1343,Bell Martinez and House,11552.3
+0,1639,2982,Williams Douglas and Hooper,71941.04
+0,1640,242,Clayton-Williams,43670.56
+0,1641,1485,Martinez-Brown,61086.34
+0,1642,172,Whitaker-Bryant,66824.47
+0,1643,1223,Mccarthy Jones and Burke,19375.8
+0,1644,420,Kane Bowers and Herman,65177.63
+0,1645,190,Barnett Jones and Sanders,63986.09
+0,1646,2957,Carpenter-Kline,54518.59
+0,1647,759,Jackson-Mccormick,53178.94
+0,1648,2266,Brown Gamble and Taylor,32116.58
+0,1649,2353,Rhodes-Robles,75013.2
+0,1650,2522,Foster-Wright,2113
+0,1651,1551,Davis Hood and Lester,46517.81
+0,1652,2550,Blanchard-Coffey,66506.06
+0,1653,1872,Jackson Miles and Wilcox,66768.53
+0,1654,312,Kennedy Ltd,26357.06
+0,1655,417,Cohen Ltd,10525.36
+0,1656,2710,Thompson Inc,27927.22
+0,1657,274,David Brown and Wilson,22875.48
+0,1658,2195,Vasquez Adams and Huber,18196.27
+0,1659,2833,Pineda-Garcia,47320.07
+0,1660,898,Gray-Schwartz,17836.35
+0,1661,886,Taylor Ayala and Cook,4475.27
+0,1662,295,Bennett-Taylor,35565.08
+0,1663,428,Mccoy Inc,12072.09
+0,1664,1976,Carter Jordan and Lopez,61311.24
+0,1665,2168,Ferguson Davis and Nelson,36738.77
+0,1666,191,Walker Inc,63638.68
+0,1667,1627,Ferguson and Sons,43011.2
+0,1668,1663,Graves Inc,28776.42
+0,1669,2677,Garcia-Smith,70342.82
+0,1670,2126,Armstrong and Sons,70756.55
+0,1671,2662,Sanchez PLC,24356.03
+0,1672,1878,Walker Ltd,48490.76
+0,1673,380,Davis-Vasquez,14603.3
+0,1674,582,Roberts PLC,33396.45
+0,1675,1377,Thompson Evans and Jordan,49720.82
+0,1676,1055,Gutierrez Ltd,2619.65
+0,1677,2462,May-Kline,16677.84
+0,1678,2139,Jones Group,1540.73
+0,1679,500,Nguyen Russo and Wiggins,61665.44
+0,1680,880,Henry-Moon,74393.28
+0,1681,2022,House Group,20660.32
+0,1682,474,Long-Thomas,41647.94
+0,1683,2739,Fitzpatrick Stevenson and Chen,2555.95
+0,1684,862,Nichols Ltd,30686.52
+0,1685,1603,Roth Inc,79709.62
+0,1686,1880,Brown-Dyer,19639.7
+0,1687,2907,Davidson-Martinez,57490.32
+1,1688,1619,Wood Taylor and Graham,4338.61
+0,1689,1179,Burgess Williams and Hickman,43601.05
+0,1690,1764,Fields Inc,15853.67
+0,1691,1068,Stevens and Sons,37119.57
+0,1692,1410,Fisher LLC,66339
+0,1693,2016,Cooper PLC,1320.68
+0,1694,1184,Smith Moran and Cooper,31520.71
+0,1695,519,Murphy Gonzalez and Perkins,51223.99
+0,1696,1374,Mitchell-Reed,60215.49
+0,1697,2859,Cameron-Davis,13260.74
+0,1698,2358,Finley Carey and Edwards,12812.77
+0,1699,1058,Stone Jones and Hutchinson,9586.91
+0,1700,692,Perry-Washington,10920.37
+0,1701,1419,Hughes PLC,14779.87
+0,1702,2865,Green Ltd,47973.55
+0,1703,2216,King-Murphy,34203.3
+0,1704,2875,Conley Group,62777.33
+0,1705,170,Bruce-Boone,19568.47
+0,1706,2877,Pennington Cox and Brooks,78566.67
+0,1707,476,Williams Crawford and Meyer,46548.08
+0,1708,2446,Garcia-Peters,15137
+0,1709,755,Hall LLC,44017.36
+0,1710,2057,Contreras and Sons,35081.12
+0,1711,2639,Johnson Group,15808.93
+0,1712,1597,Jones Vincent and Lopez,38703.56
+0,1713,2822,Martinez-Wood,59034.73
+0,1714,2589,Dougherty Mclaughlin and Wall,50687.55
+0,1715,2506,Robinson-Martin,66454.81
+0,1716,893,Moon Ltd,58029.25
+0,1717,2711,Lopez Zuniga and Ramirez,39176.85
+0,1718,450,Sparks-Martin,68380.6
+0,1719,2497,Ramos Mooney and Anderson,38024.32
+0,1720,1323,Harrison and Sons,77499.1
+0,1721,2709,Shaffer-Hall,79213.16
+0,1722,558,Alvarado Gardner and Cunningham,71513.9
+0,1723,2390,Johnson-Martin,33689.28
+0,1724,1260,Bridges Rogers and Johnson,75916.13
+0,1725,1162,Elliott-Best,65638.04
+0,1726,323,Vasquez Ltd,64404.48
+0,1727,2861,Hunter-Hughes,48964.23
+0,1728,751,Scott Inc,5598.73
+0,1729,1741,Caldwell Lopez and Montes,51257.66
+0,1730,14,Riley Kelley and Calderon,28808.06
+0,1731,2076,May LLC,40923.11
+0,1732,2669,Woodard Salas and Smith,11437.21
+0,1733,2481,Johnson and Sons,55021.29
+0,1734,1534,Carter Perez and Pope,65137.29
+1,1735,232,Williamson Preston and Cabrera,41446.15
+0,1736,85,Lamb Flores and Ritter,22991.05
+0,1737,2366,Wilson Aguilar and Evans,39444.47
+0,1738,357,Jenkins LLC,70328.14
+0,1739,70,Romero-Golden,47712.07
+0,1740,257,Perry Collins and Thompson,21544.02
+0,1741,1206,Moore LLC,40908.8
+0,1742,995,Henderson Inc,11507.42
+0,1743,2185,Phillips Group,21974.32
+0,1744,1996,Jones Inc,64278.84
+0,1745,329,Walker Hernandez and Acosta,18195.45
+0,1746,1686,Mendoza-Martinez,25872.54
+0,1747,431,Green Mcmillan and Liu,36161.66
+0,1748,1290,Singleton-Nguyen,62257.26
+0,1749,2267,Key-Sullivan,35646.71
+0,1750,2612,Frederick Park and Schneider,15669.37
+0,1751,1334,Stout Martinez and Morris,58426.91
+0,1752,1232,Johnson-Castro,19347.17
+0,1753,1617,Harris-Dawson,73126.52
+0,1754,180,Watkins-Collins,26925.71
+0,1755,2718,Brown PLC,7090.86
+0,1756,1217,Miller and Sons,54085.69
+0,1757,2508,Morales PLC,50654.26
+0,1758,480,Ramirez Inc,33681.56
+0,1759,393,Kline LLC,4837.15
+0,1760,1590,Hunter Ltd,15884.2
+0,1761,737,Johnson-Anderson,29532.09
+0,1762,834,Fischer-Brock,60853.35
+0,1763,2110,Johnson-Moses,42687.79
+0,1764,293,Patton-Duncan,1598.7
+0,1765,1744,Walker-Serrano,40598.03
+1,1766,364,Hood-Walter,73504.58
+0,1767,2608,Williams-Brandt,50814.39
+0,1768,475,Maddox-Lopez,13455.19
+0,1769,2828,Johns Garcia and Simpson,16070.39
+0,1770,192,White Rogers and May,55798.76
+0,1771,878,White Stuart and Cohen,26465.37
+0,1772,2242,Cruz Ltd,45088.3
+0,1773,954,Small and Sons,40456.62
+0,1774,745,Washington PLC,37200.93
+0,1775,2395,Parks and Sons,57078.2
+0,1776,1136,Goodman Group,12846.1
+0,1777,815,Wallace-Cox,72238.15
+0,1778,2580,Davidson Inc,7291.43
+0,1779,1225,Holden Group,25475.08
+0,1780,1966,Mcdaniel Kane and Browning,58381.83
+0,1781,1400,Solis-Martin,32122.3
+0,1782,637,Hawkins Group,1916.38
+0,1783,1000,Mills-Howe,70255.32
+0,1784,2495,Jones White and Taylor,9514.82
+0,1785,2901,Thomas-Raymond,30839.4
+0,1786,602,Colon-Pham,63460.91
+0,1787,2614,Aguirre Group,64089.56
+0,1788,1388,Allen-Lozano,11861.56
+0,1789,1626,Rivera-Sawyer,13808.58
+0,1790,1278,Smith and Sons,55265.38
+0,1791,260,Holland PLC,73125.76
+0,1792,579,Nelson-Pham,69071.01
+0,1793,860,Irwin-Mendez,9003.39
+0,1794,938,Gates-Silva,1818.06
+0,1795,1899,Finley Coleman and Garcia,52462.73
+0,1796,2063,Coleman-Chapman,4483.27
+0,1797,2488,Jensen Gallegos and King,11111.4
+0,1798,1087,Howard PLC,70470.25
+0,1799,2795,Moon Leonard and Hicks,63033.1
+0,1800,2585,Wilson-Washington,28893.64
+0,1801,714,Johnson Ltd,70981.12
+0,1802,1589,Brown Moore and Webster,52683.24
+1,1803,1122,Mcintosh Taylor and Brown,69657.47
+0,1804,942,Patel Schneider and Terrell,44625.76
+0,1805,1440,Ray-Rodriguez,17785.58
+0,1806,819,Hurst-Myers,22754.46
+0,1807,90,Clark Glass and Hoffman,37257.87
+0,1808,1077,Vega Peters and Hall,35478.54
+0,1809,836,Mason Cox and Lowe,65776.12
+0,1810,1039,Anderson Group,39203.1
+0,1811,1792,Fitzpatrick Mcknight and Ortiz,57776.53
+0,1812,1644,Murphy Ltd,1560.88
+0,1813,38,Cuevas Chambers and Smith,42903.35
+0,1814,1046,Rose Cain and Wiggins,10397.97
+0,1815,1473,Cruz Forbes and Chen,76332.31
+0,1816,349,Hunt Ltd,72837.73
+0,1817,2193,Garcia Salas and Johnson,1511.06
+0,1818,2436,Harris Miller and Humphrey,19343.1
+1,1819,804,Fischer and Sons,18498.91
+0,1820,2164,Marquez Ramos and Horton,17949.1
+0,1821,2520,Thomas-Phillips,23601.5
+0,1822,2759,Wilson-Ward,54726.11
+0,1823,914,Sanchez-Pineda,67624.59
+0,1824,177,Weaver LLC,7531.79
+0,1825,482,Spencer LLC,70097.64
+0,1826,2737,Reed Walker and Snyder,22667.94
+0,1827,1806,Glover Lyons and Baker,68891.98
+0,1828,1850,Gay Campbell and Mckenzie,32526.9
+0,1829,403,Newton-Reynolds,9204.89
+0,1830,1350,Thomas Ltd,14324.42
+0,1831,1902,Kim White and Watts,38568.19
+0,1832,2825,Johnson Anderson and Roberts,43126.45
+0,1833,2960,Miller LLC,17380.02
+0,1834,2100,Johnson Freeman and Johnston,74357.02
+0,1835,1869,Walsh PLC,31435.57
+0,1836,2772,Wallace Hart and Miller,31566.24
+0,1837,1134,Sloan Castillo and Lloyd,30139.4
+0,1838,1382,Hoffman Smith and Foster,3387.31
+0,1839,2946,Luna-Cox,8220.62
+0,1840,2170,Ellis Group,61048.43
+0,1841,1579,Moreno Finley and Holloway,45374.62
+0,1842,1935,Brown Duncan and Richardson,42137.42
+0,1843,527,Lee Ltd,66820.33
+0,1844,432,Floyd-Rodriguez,45963.93
+0,1845,1443,Lucas-Johnson,64549.77
+0,1846,1607,Knight Group,2321.72
+0,1847,2161,Vance Porter and Byrd,65595.75
+0,1848,1471,Logan Inc,26449.86
+0,1849,2367,Espinoza Miller and Hill,36366.42
+0,1850,990,Shields-Jacobs,14736.96
+0,1851,2602,Armstrong-Little,50257.47
+0,1852,246,Warren LLC,19604.63
+0,1853,444,Jimenez Ltd,76906.19
+1,1854,988,Salazar Inc,78953.96
+0,1855,717,Knox-Weber,36460.85
+0,1856,121,Dalton-Wallace,19426.53
+0,1857,1926,Patel Freeman and Allen,30419.99
+0,1858,2788,Haley-Sherman,38055.63
+0,1859,1174,Bowen Kelly and Hall,38783.98
+0,1860,605,Cross-Glass,34392.33
+0,1861,1373,Rivera-Carey,70717.77
+0,1862,182,Bowers Group,36158.63
+0,1863,391,Oliver-Murray,70127.73
+1,1864,1696,Evans Stanley and Mcclure,72575.1
+0,1865,1702,Vang Johnson and Gallegos,44969.63
+0,1866,2204,Watkins Inc,37576.97
+0,1867,2397,Garcia-Alvarez,57212.71
+1,1868,2333,Wilkins Group,62485.87
+0,1869,1515,Adams-Wade,70402.83
+0,1870,2628,Lewis Reed and Jones,19125.63
+0,1871,381,Green Inc,14801.14
+0,1872,2180,Clarke Smith and Garcia,65563.29
+0,1873,1498,White-Mcbride,26338.38
+0,1874,1304,Butler Short and Avery,79719.3
+0,1875,571,Lopez-Ramsey,21265.22
+0,1876,1178,Mcneil Ltd,60770.83
+0,1877,2117,Robbins-Dean,18250.77
+0,1878,345,Poole LLC,79256.41
+0,1879,1970,Riggs Brown and Hall,65907.85
+0,1880,2555,Mitchell-Hill,9388.67
+0,1881,1786,Sanford Hooper and Herman,42471.04
+0,1882,955,Beck Rosario and Anderson,46522.79
+0,1883,1897,Carter Mitchell and David,37207.32
+0,1884,1300,Hubbard PLC,34642.01
+1,1885,2725,Hubbard and Sons,13609.83
+1,1886,2201,Gutierrez-Graves,15604.73
+0,1887,2999,Salazar-Watson,26366.28
+0,1888,935,Hayes Roberts and Cordova,40045.29
+0,1889,2595,Walker-Anderson,46524.34
+0,1890,6,Vargas-Carter,37025.62
+0,1891,1258,Knox Madden and Reynolds,7088.36
+0,1892,94,Mckenzie Inc,1245.36
+0,1893,2108,Robinson Page and Allen,20908.51
+0,1894,1652,Thompson Trevino and Gillespie,74277.01
+0,1895,2517,Hahn Inc,59376.82
+0,1896,299,Long-Riggs,79217.24
+0,1897,1824,Murphy-Barton,45281.9
+0,1898,134,Allen Moore and Rodgers,31988.67
+0,1899,1707,Garrison-Gonzalez,34236.65
+0,1900,175,Jenkins Fischer and Jacobs,71198.86
+0,1901,2051,Campbell Ltd,2151.2
+0,1902,1937,Reynolds Ltd,51740.99
+1,1903,1133,Taylor Trujillo and Thompson,39220.55
+0,1904,881,Jarvis Calhoun and Davis,47742.9
+0,1905,1398,Gross Jackson and Hamilton,74623.8
+0,1906,2975,Martinez-Gray,27968.03
+0,1907,1520,Hughes Underwood and Thompson,23346.13
+0,1908,343,Pratt Johnson and Cook,65360.57
+0,1909,1837,Rowe-Kirby,36499.36
+0,1910,1414,Wagner King and Brown,39088.59
+0,1911,2280,Walker-Rodriguez,4581.13
+0,1912,2469,Greene-Humphrey,58517.43
+0,1913,2238,Harrell LLC,60502.46
+0,1914,316,Davis Inc,57880
+0,1915,261,Foster-Martinez,36079.35
+0,1916,1335,Shepherd-Mercado,79282.71
+0,1917,2984,Garcia-Turner,5053.11
+0,1918,2272,Arias-White,37487.13
+0,1919,720,Hoffman and Sons,76709.51
+0,1920,1484,Gibbs Rose and Turner,40299.74
+0,1921,1908,Williams-Wood,51373.8
+0,1922,1165,Butler Powers and Lawson,51943.57
+0,1923,2848,Aguilar Group,32828.63
+0,1924,1587,Aguirre-Johnson,34218.29
+0,1925,503,Thomas and Sons,44702.85
+0,1926,1445,Johnson-Charles,27199.64
+0,1927,774,Robinson-Small,39653.31
+0,1928,2420,Reed Group,61178.74
+0,1929,576,Barber Howard and Walker,34727.36
+0,1930,140,Jones Ltd,37206.91
+0,1931,1124,Hebert-Barton,42823.14
+0,1932,1352,Daugherty-Knight,28139.59
+0,1933,2844,Fischer Group,17064.17
+0,1934,589,Fowler Gonzalez and Wilkerson,63729.89
+0,1935,689,Harper Howell and Weber,4510.57
+0,1936,2747,Gordon-Hansen,29350.42
+0,1937,1310,Beck Group,59082.76
+0,1938,2065,Wilson Ltd,75653.13
+0,1939,2942,Delgado Goodwin and Zhang,32544.59
+0,1940,56,Hammond-Carey,51312.61
+0,1941,2905,Reeves Miller and Hill,12834.31
+0,1942,2528,Bell PLC,69824.25
+0,1943,1169,Mcmahon Jones and Ho,10867.83
+0,1944,20,Colon-Smith,23956.1
+0,1945,1266,Callahan Johnson and Bowen,40660.53
+0,1946,960,Morgan-Martinez,73004.66
+0,1947,1191,Ryan Costa and Lyons,79719.05
+1,1948,1868,Moore and Sons,43231.24
+0,1949,1004,Grimes and Sons,33702.16
+0,1950,2611,Abbott-Foster,41934.67
+0,1951,2218,Collins Group,75085.22
+0,1952,2392,Wright Johnson and Aguilar,16680.28
+0,1953,1865,Carr Carson and Lopez,13466.26
+0,1954,2812,Parks Logan and Gonzales,78196.42
+0,1955,395,Clay PLC,70780.21
+0,1956,2708,Hernandez Ltd,23369.6
+0,1957,1017,Sanders Johnson and Carter,51630.97
+1,1958,1737,Hendricks Drake and Reynolds,69914.86
+0,1959,159,Clayton PLC,56917.05
+0,1960,2572,Murray PLC,16837.75
+0,1961,346,Lee PLC,25269.13
+0,1962,61,Bauer Martinez and Torres,34587.92
+1,1963,1639,Barry Walker and Mitchell,3574
+0,1964,925,Kelly Middleton and Avery,57485.56
+0,1965,510,Hendrix-Romero,12727.89
+1,1966,2753,Anderson-Vazquez,21185.6
+1,1967,1508,Walker Lee and Jimenez,62412.86
+0,1968,2138,Cortez Skinner and Haynes,9722.84
+0,1969,76,Bennett Lee and Yu,49740.93
+0,1970,2996,Warner PLC,23738.34
+0,1971,1385,Price Inc,30345.41
+0,1972,80,Coleman Thomas and Lynch,17431.25
+0,1973,811,Moreno Inc,70981.48
+0,1974,1506,Torres Harrison and Salas,8045.23
+0,1975,1710,Graham Walker and Delacruz,42500.21
+0,1976,789,Ellis Castro and Smith,49551.05
+0,1977,1147,Barnes Ltd,6601.69
+0,1978,1454,Jenkins-Williams,63287.48
+0,1979,2895,Johnson-Miller,61027.49
+0,1980,1158,Perkins Williamson and Moore,66431.31
+0,1981,89,Ward Vance and Cole,1940.64
+0,1982,2137,George PLC,63692.2
+0,1983,2700,Moore-West,29506.74
+0,1984,2209,Anderson PLC,16564.71
+0,1985,1687,Irwin Sampson and Torres,30995.87
+0,1986,2011,Nelson Group,50209.86
+0,1987,1542,Woods Liu and Bautista,34782.9
+0,1988,2792,Hampton-Martin,54880.08
+0,1989,2778,Davis-Stanton,57393.12
+0,1990,706,Wells-Davis,51698.03
+0,1991,2935,Thompson-Sullivan,70804.99
+0,1992,2070,Morales and Sons,65056.6
+0,1993,1466,Watson Boyer and Giles,61194.53
+0,1994,2330,Woods and Sons,15959.18
+0,1995,1062,Bradshaw and Sons,14468.91
+0,1996,2699,Harris Inc,6324.33
+0,1997,1265,Morgan PLC,39808.53
+0,1998,2005,Thomas Dickerson and Kelly,14669.54
+0,1999,2419,Deleon Mills and Diaz,23630.69
+0,2000,643,Michael-Stokes,11756
+0,2001,1584,Walters Martinez and Gibson,24194.85
+0,2002,1420,Briggs Baldwin and Bush,12854.81
+0,2003,418,Mcbride-Walker,42799.8
+0,2004,888,Chambers and Sons,50645.99
+0,2005,1358,Casey-Diaz,16176.15
+0,2006,2723,Holmes-Collins,14263.55
+0,2007,1114,Davis-Davis,58614.98
+0,2008,2078,Chapman-Wilson,12115.96
+0,2009,153,Snyder Ltd,51723.96
+0,2010,2549,Moore-Miller,19303.95
+0,2011,2638,Dalton-Clark,61456.76
+0,2012,226,Moore PLC,32251.68
+0,2013,2471,Rodriguez Castillo and Johnson,22091.68
+0,2014,195,Wright Wise and Vaughn,22174.23
+0,2015,1536,Fernandez-Wade,10236.21
+0,2016,1724,Robinson Nash and Riley,56411
+0,2017,1693,Jones Smith and Hill,64794.74
+0,2018,1496,Bennett-Guerrero,51861.98
+0,2019,304,Mckay Rodriguez and Hernandez,31626.39
+0,2020,1451,Wall Wall and Berry,55331.4
+0,2021,1285,Williams PLC,52320.44
+0,2022,2132,Wagner Lowery and Bonilla,68240.32
+0,2023,144,Hall Ltd,52187.57
+0,2024,298,Rodriguez Keller and Yates,79490.34
+0,2025,2383,Phillips-Miller,59840.65
+0,2026,845,Thomas Inc,25732.78
+0,2027,2857,Salas Rojas and Jones,59370.76
+0,2028,1157,Williams-Montes,6977.02
+0,2029,1832,Sanders PLC,39496.28
+0,2030,1302,Brown Group,68158.96
+0,2031,2097,Ellis Harvey and Cobb,13394.33
+0,2032,1503,Kaufman-Todd,70480.56
+0,2033,327,Peterson Anderson and Acosta,58089.85
+0,2034,1843,Ruiz Group,7635.42
+0,2035,879,Giles Schultz and Johnston,58192.69
+0,2036,2059,Hanson Pena and Armstrong,38366.89
+0,2037,1126,Pugh Adkins and Long,75428.83
+0,2038,2941,Sanders-Rodriguez,60213.84
+0,2039,2658,Romero Campbell and White,70385.19
+0,2040,780,Patel Clark and Klein,74536.86
+0,2041,1487,Murphy-Richards,55737.62
+0,2042,467,Randolph PLC,31579.37
+0,2043,198,Saunders LLC,33791.05
+0,2044,1344,Peters Ltd,32146.54
+1,2045,2605,May Ltd,64743.99
+0,2046,2448,Watts Rosales and Curtis,79798.67
+0,2047,1272,Soto Brown and Lopez,28368.98
+0,2048,837,Daugherty LLC,54101.34
+0,2049,181,Holt Williams and Perez,79856.53
+0,2050,2092,Phillips Ltd,32857.63
+0,2051,1161,Moore Nicholson and Campbell,13266.15
+0,2052,1894,Hall Ltd,52116.31
+0,2053,1866,Butler Group,61161.51
+0,2054,1677,Lucas Group,14098.9
+0,2055,2360,Figueroa-Williams,18484.62
+0,2056,1220,Wilson Group,46250.91
+0,2057,1086,Elliott-Sellers,78325.6
+0,2058,2189,Gallegos Smith and Spencer,15202.49
+0,2059,1209,Cannon Sanchez and Sanders,2379.79
+0,2060,471,Jacobson-Greene,66085.85
+0,2061,840,Brooks-Pittman,62973.42
+0,2062,211,Nguyen-Rowland,47284.42
+0,2063,1263,Thompson Young and Rodriguez,58841.5
+0,2064,1674,Reed-Steele,71418.86
+0,2065,1911,Huang-Quinn,12106.14
+0,2066,1906,Bush Brown and Baker,73930.84
+1,2067,2258,Young Sutton and Davis,40444.14
+0,2068,2742,Stephens Group,54102.25
+0,2069,1533,Evans Esparza and Chapman,28609.75
+0,2070,2997,Perry Ltd,30549.95
+0,2071,2357,Ruiz Ltd,67764.7
+0,2072,2047,Nguyen and Sons,68842.41
+0,2073,2101,Campbell and Sons,34821.15
+0,2074,1635,Wall-Mccormick,61593.89
+0,2075,987,Price-Landry,63876.34
+0,2076,1933,Smith-Brown,27074.56
+0,2077,167,Jimenez Anderson and Campbell,15243.31
+0,2078,133,Taylor Miller and Fernandez,74062.5
+0,2079,2130,Allen Anderson and Walker,26911.77
+0,2080,1031,Gonzales-Mullen,45751.9
+0,2081,1273,Moore Inc,63303.89
+0,2082,2281,Hancock Inc,66124.33
+0,2083,826,Williams Inc,4065.37
+0,2084,2910,Salazar Ltd,39798.44
+0,2085,1243,Gallagher Jones and Gilbert,38139.72
+0,2086,833,Skinner LLC,73556.59
+0,2087,415,Tucker PLC,27617.99
+0,2088,732,Johnson Group,63806.82
+0,2089,495,Murphy-Jensen,6549.46
+0,2090,2155,Hardy Group,39574.65
+0,2091,1944,Bush-Patton,55583.59
+0,2092,2856,Bullock-Powell,21027.65
+0,2093,2736,Roberts Inc,15267.63
+0,2094,784,Murray Group,55726.58
+0,2095,407,Beasley Ponce and Evans,19826.02
+0,2096,518,Perry-Diaz,56989.03
+0,2097,841,Donovan PLC,77325.01
+1,2098,2220,Butler LLC,35627.6
+0,2099,1357,Ramirez-Riley,64088.63
+0,2100,1196,Martinez Edwards and Bonilla,18367.5
+1,2101,1507,Robinson Group,50885.89
+0,2102,1354,Brown Ltd,29751.22
+0,2103,272,Wagner Stevens and Vargas,29570.9
+0,2104,1852,Adams Ltd,69270.06
+0,2105,1051,Jones Clark and Cole,38051.37
+0,2106,2069,Fox PLC,19826.13
+0,2107,767,Stafford-Perry,19952.05
+0,2108,2015,Barron Becker and Rowe,24991.9
+0,2109,2350,Evans Group,48638.23
+0,2110,1622,Figueroa Odonnell and Patterson,54338.52
+0,2111,231,Guzman Group,10776.17
+0,2112,828,Woodard-Martinez,32621.64
+0,2113,1009,Marshall-Johnson,22858.79
+0,2114,2188,Miranda Jackson and Morales,1605.91
+0,2115,799,Thomas-Reynolds,69306.26
+0,2116,2004,Robinson Ltd,33837.46
+0,2117,1003,Smith-Daniels,79546.87
+0,2118,2255,Trevino Inc,74940.76
+0,2119,2388,Smith Group,49138.99
+1,2120,952,Walsh Miller and Martinez,73168.21
+0,2121,552,Banks Inc,4934.37
+0,2122,1379,Shaw PLC,41353.47
+0,2123,1387,Graham Pham and Smith,58723.37
+0,2124,572,Morris Group,15569.22
+1,2125,1714,Taylor Brown and Schmidt,25642.23
+0,2126,1770,Juarez LLC,30712.45
+0,2127,1954,Kim Group,22628.34
+0,2128,2403,Gutierrez Larson and Castillo,72032.32
+0,2129,1959,Brown Group,30100.82
+0,2130,2820,Scott-Douglas,10719.31
+0,2131,382,Mccarthy-Thomas,19422.22
+0,2132,1405,Carter-Woodward,16506.43
+0,2133,2215,Cooper Adams and Day,69911.24
+0,2134,773,Salas Group,2131.53
+0,2135,2773,Hodges Cain and Harris,14042.53
+0,2136,931,Thomas-Hudson,38664.62
+0,2137,1193,Douglas Group,45245.44
+0,2138,2785,Bailey Walsh and Fuller,67186.06
+0,2139,2564,Ruiz PLC,17068.63
+0,2140,1682,Baker-Walker,34113.37
+0,2141,1501,Farrell Ltd,77090.95
+0,2142,1264,Thompson LLC,44173.19
+0,2143,2527,Clark Rodriguez and Knapp,29999.92
+0,2144,402,Meyer Bailey and Duran,29395.86
+0,2145,1514,Perez Santiago and Harris,67679.66
+0,2146,532,Scott Flores and Parker,67677.68
+0,2147,1571,Burton Ltd,1842.87
+0,2148,2060,Bowman-Jones,30238.31
+1,2149,269,Oconnor Jordan and Sims,62891.5
+0,2150,1731,Lee Group,78311.19
+0,2151,2206,Lee Inc,13788.39
+0,2152,1784,Cook Weber and Johnson,35008.64
+0,2153,544,Pearson-Patrick,64449.91
+1,2154,640,Smith Ltd,78941.09
+0,2155,2328,Jacobs-Davies,38410.46
+0,2156,1797,Ramirez-Booth,28708.82
+0,2157,12,Williams-Hahn,71862.53
+0,2158,1705,Miller Ltd,13124.52
+0,2159,339,Sellers-Martin,36640.78
+0,2160,2809,Spears Ltd,71991.71
+0,2161,1891,Johnson Group,67736.16
+0,2162,2689,Wagner Stone and Manning,30824.16
+0,2163,2973,Krause Inc,49458.77
+0,2164,2584,Valencia Chan and Holland,77073.27
+0,2165,1822,Armstrong-Mccarthy,11536.88
+0,2166,2806,Hutchinson Arnold and Smith,60443.4
+0,2167,511,Jackson-Smith,31004.51
+0,2168,1791,Ramirez Tate and Hernandez,7240.58
+0,2169,2,Taylor-Lang,52036.74
+0,2170,1098,Barnett and Sons,60890.77
+0,2171,440,Roberson-Jones,53622.92
+0,2172,2576,Roach Newton and Ewing,47636.19
+0,2173,1842,Robles LLC,37381.25
+0,2174,654,Moore-Bright,3617.03
+0,2175,2463,Perez-Crawford,61179.23
+0,2176,2018,Mitchell Kaiser and Hampton,8428.23
+0,2177,1525,Williams Group,53732.92
+0,2178,1730,Ware Inc,70785.15
+0,2179,2196,Lee-Hernandez,59895.23
+0,2180,2575,Calderon Bonilla and Reyes,71747.48
+0,2181,1618,Grant Anderson and Davis,16103.31
+0,2182,2696,Evans-Davis,71102.3
+0,2183,1152,Jimenez-Berry,37195.08
+0,2184,2648,Smith-Henry,60435.2
+0,2185,71,Maynard West and Johnson,25025.28
+0,2186,2904,Gomez Mcclain and Hernandez,14088.92
+0,2187,661,Byrd and Sons,70892.33
+0,2188,2853,White Washington and Black,60022.36
+0,2189,1846,Walsh and Sons,67794.96
+0,2190,161,Watson Group,43005.84
+0,2191,2309,Santos Jackson and Kim,35256.13
+0,2192,1776,Clay Phillips and Perry,14533.69
+0,2193,1680,Gill Barrera and Palmer,57833.31
+0,2194,387,Bryant Jackson and Cunningham,9635.63
+0,2195,1409,Bell Inc,58219.88
+0,2196,2112,Hawkins-Reed,29462.14
+0,2197,1789,Nelson-Martinez,5360.08
+0,2198,2510,Reynolds Steele and Stevenson,28686.32
+0,2199,690,Knapp-Henson,60714.27
+0,2200,3,Olson-Zhang,51986.85
+0,2201,33,Perez-Dickerson,51269
+0,2202,1427,Patton Ltd,30481.13
+0,2203,2030,Gomez Chaney and Miller,60232.87
+0,2204,922,Cruz-Blake,41984.85
+0,2205,1330,Randall Williams and Kline,2171.09
+0,2206,2493,Yoder and Sons,7616.64
+0,2207,1873,Gonzales Gray and Bush,55031.53
+1,2208,473,Potter and Sons,14432.81
+0,2209,1050,Yang Wiley and Franklin,26758.91
+0,2210,1428,Campbell-Allen,49804.94
+0,2211,2972,Simpson-Davis,3657.23
+0,2212,538,Alexander PLC,7126.92
+0,2213,1268,Adams LLC,45802.53
+0,2214,2743,Travis and Sons,55644.99
+0,2215,408,Jackson-Ingram,61164.72
+0,2216,2524,Dalton LLC,71909.47
+0,2217,223,Parsons Group,37725.2
+0,2218,183,Williamson and Sons,59403.53
+0,2219,152,Castillo and Sons,76445.09
+0,2220,627,Powell Wilson and Patel,13604.59
+0,2221,1695,Wallace-Doyle,3490.65
+0,2222,2269,Mendoza-Chavez,53672.38
+0,2223,2956,Mullen Lopez and Lucas,36709.2
+1,2224,2259,Cardenas-Davis,38385.68
+0,2225,1960,Carter-Peters,22705.94
+0,2226,2122,Brown-Perez,66713.97
+0,2227,2707,Beck Murphy and Clark,50433.97
+0,2228,2530,Silva Anderson and Cohen,23504.95
+0,2229,1892,Montoya Hayes and Hodge,2348.22
+0,2230,2026,Lopez Ltd,55866.85
+0,2231,2817,Jones PLC,29184.84
+0,2232,1151,Lewis Ltd,65540.33
+0,2233,1317,Wade-Frazier,48455.42
+0,2234,1804,Williams-Smith,35495.37
+0,2235,1353,Dean LLC,67721.91
+0,2236,2443,Young Morgan and Joseph,78885.45
+0,2237,535,Dyer-Sherman,64571.68
+0,2238,641,Santos-Garcia,60060.79
+0,2239,1808,Ross Coleman and Carlson,60839.38
+0,2240,2394,Garcia Barrett and Thomas,7027.25
+0,2241,1499,Walker LLC,46969.74
+0,2242,520,Stevens-Young,42608.94
+0,2243,703,Tyler Lopez and Zhang,12764.11
+0,2244,976,Mcdowell Khan and Gonzalez,67706
+0,2245,2205,Mcneil Group,39245.15
+0,2246,916,Leonard-Ruiz,72969.6
+1,2247,2770,Harris Group,10977.56
+0,2248,2937,Thomas-Rodriguez,11412.23
+0,2249,2537,Davenport-Hunter,61326.05
+0,2250,2303,Rivera-Cole,55525.98
+1,2251,567,Young LLC,79950.03
+0,2252,676,Gallegos Patel and Rodriguez,56869.25
+1,2253,1679,Hansen and Sons,1664.42
+0,2254,2000,Munoz Jones and Montgomery,72715.34
+0,2255,890,Munoz-Velazquez,9054.08
+0,2256,216,Cantrell-Smith,62890.49
+0,2257,2663,Dean-Hughes,9221.43
+0,2258,2538,Peterson-Gibbs,16716.07
+0,2259,805,Sanchez-Johnson,4932.27
+0,2260,514,Vaughan Flynn and Miller,63392.89
+0,2261,2950,Jackson-Faulkner,39807.97
+0,2262,2944,Hester-Marsh,35181.71
+0,2263,633,Mckay Group,28129.31
+0,2264,2363,Fleming Duffy and Hernandez,33698.81
+0,2265,62,Dillon-Stewart,26444
+1,2266,1519,Hood Mcguire and Sanchez,20694.81
+0,2267,2671,Espinoza Group,70618.15
+0,2268,2678,Bell-Schultz,43502.04
+0,2269,1839,Martinez and Sons,57604.39
+0,2270,2291,Buchanan Stone and Watson,5925.41
+0,2271,2661,Diaz Williams and Johnson,76904.23
+0,2272,1512,Shaw Inc,44090.8
+0,2273,1061,Bennett-Grant,60078.47
+0,2274,1678,Stone-Paul,29259.73
+0,2275,487,Zuniga LLC,17092.7
+0,2276,1429,White Shannon and Griffin,33563.21
+0,2277,1052,Owen-Jackson,75160.35
+0,2278,741,Clarke Patterson and Ellis,27220.62
+0,2279,340,Smith-Kim,39188.12
+0,2280,2273,Adams Russell and Hardy,11631.23
+0,2281,2013,Barnes Inc,40426.81
+0,2282,545,Jordan Baker and Berry,58030.65
+0,2283,2287,Rodriguez-Knight,33376.8
+0,2284,1684,Strong-Fitzgerald,54726.19
+0,2285,207,Mckay Woodward and Young,66162.55
+1,2286,2297,Jones-Bates,42871.5
+0,2287,2285,Cunningham LLC,34276.73
+0,2288,2094,Shea Wolf and Hughes,68817.68
+0,2289,2465,Hill Hunt and Pennington,28558.92
+0,2290,593,May-Pollard,65151.45
+0,2291,1876,Rogers Jones and Lara,27105.95
+0,2292,2765,Carr Allen and Huerta,16675.57
+0,2293,2375,Jackson Hughes and Tucker,63532.75
+0,2294,2969,Morris Patton and Taylor,67284.77
+0,2295,372,Hernandez Group,76995.3
+0,2296,771,Walker PLC,24851
+0,2297,2776,Jones Hoover and Medina,44725.71
+0,2298,1434,Meyer-Bryant,32910.65
+0,2299,975,Glover Ltd,22533.03
+0,2300,1450,Gould Dunn and Harris,35637.01
+0,2301,1171,Smith-Fuentes,53038.6
+0,2302,2569,Sanders Fox and Arroyo,12254.29
+0,2303,98,Santiago Inc,51424.62
+0,2304,2378,Jenkins-Rios,50800.65
+0,2305,135,Rodriguez Group,49501.84
+0,2306,147,Williams Inc,44249.33
+0,2307,597,Stevens Brown and West,45964.28
+0,2308,1544,Barnes-Hamilton,34625.89
+0,2309,2244,Wilson-Anderson,54741.84
+0,2310,1060,Sullivan-Blanchard,75260.11
+0,2311,1476,Martin Franklin and Austin,59130.81
+0,2312,1552,Morris Blevins and Stewart,47804.28
+0,2313,668,Herrera Valdez and Leblanc,25510.32
+0,2314,583,Le Inc,55835.23
+0,2315,1788,Wood Roberson and Clay,66061.97
+0,2316,1301,Smith-Peterson,15599.04
+0,2317,1315,Bernard Perez and Martinez,17780.21
+0,2318,1341,Shelton Greer and French,27412.6
+0,2319,1790,Hernandez-Robinson,74720.12
+0,2320,1256,Gross PLC,4052.97
+0,2321,1135,Owen Rodriguez and Cox,22118.03
+0,2322,1656,Young LLC,37642.48
+0,2323,2135,Turner Patel and Larson,22249.41
+0,2324,1433,Kim Group,40447
+0,2325,713,Little Nichols and Holmes,27180.96
+0,2326,2114,Wright Inc,13776.28
+0,2327,1997,Franco Johnson and Rodriguez,72310.21
+0,2328,962,Jones Owen and Townsend,77490.79
+0,2329,2320,Shannon-Hernandez,50057.89
+0,2330,2313,Joseph Group,45520.01
+0,2331,2284,Marquez Powers and Vance,57508.07
+0,2332,1279,Rose Cannon and Harrison,61115.47
+0,2333,691,Herring Keller and Warren,32018.45
+0,2334,1346,Frazier Group,5396.01
+0,2335,2414,Dunn-Mendoza,36982.84
+0,2336,736,Jackson-Jones,37990.19
+0,2337,1638,Jensen PLC,13141.74
+0,2338,279,Rodriguez-Turner,28354.3
+0,2339,1521,Irwin Inc,5744.57
+0,2340,1949,Duran Martinez and Smith,2859.37
+0,2341,1338,Hogan-Williams,39428.42
+0,2342,924,Miranda and Sons,57701.11
+0,2343,1159,Harris Moore and Richards,39560.64
+0,2344,218,Anderson-Reid,25674.44
+0,2345,2292,Snow-Kerr,75969.74
+0,2346,1044,Roberts Martinez and Taylor,46278.24
+1,2347,2380,Fowler Parker and Marsh,18825.8
+0,2348,1347,Potter-West,78723.2
+1,2349,2422,Harmon PLC,75806.95
+0,2350,425,Hart Greer and Hanson,60364.11
+0,2351,2186,Payne Ltd,69225.09
+0,2352,2314,English-Knox,26490.81
+0,2353,1403,Smith Humphrey and Wright,33357.6
+0,2354,1096,Davis LLC,21197.51
+0,2355,1768,Mullins Inc,49029.81
+0,2356,2321,Donaldson Ltd,73478.91
+0,2357,1267,Simon Ltd,62977.83
+0,2358,1812,Scott PLC,41400.56
+0,2359,243,Costa Castillo and Smith,51951.13
+0,2360,1080,Nixon Inc,32179.56
+0,2361,2147,Wilson LLC,47659.12
+0,2362,1251,Gardner-Horne,66868.47
+0,2363,2197,Montoya-Robinson,78276.75
+0,2364,79,Edwards-Carter,69595.42
+0,2365,1548,King Moore and Buck,10510.55
+0,2366,1441,Henderson Group,73689.31
+0,2367,1653,Morris Watkins and Alexander,37051.67
+0,2368,303,Williams-Sullivan,43156.91
+0,2369,634,Rivas LLC,20686.97
+0,2370,892,Thomas Larsen and Johnson,62363.85
+0,2371,284,Ball Miller and Carlson,6279.86
+0,2372,319,Mclaughlin Santos and Foster,47233.1
+0,2373,2630,Thompson Ltd,10502.21
+0,2374,981,Stephenson-Randall,61538.21
+0,2375,1595,Murphy Inc,61548.68
+0,2376,2544,Black Garcia and Thomas,18811.46
+0,2377,1465,Clark Gordon and Hernandez,73909.34
+0,2378,2642,Brown Stewart and Goodman,71785.84
+0,2379,2561,Preston Graham and Obrien,64351.09
+0,2380,2263,Davies Williams and Saunders,12878.84
+0,2381,2133,Thomas-Fowler,73499.92
+0,2382,616,Rogers Flores and Murphy,58428.49
+0,2383,254,Wilson Inc,41124.18
+1,2384,2502,Williams Ltd,44727.7
+0,2385,534,Silva Jones and Johnson,64594.09
+1,2386,1172,Evans LLC,26789.83
+0,2387,2183,Duncan Henry and Cameron,9253.16
+0,2388,321,Clark Zuniga and Olson,9154.11
+0,2389,2102,Hicks Hogan and Hale,42765.21
+0,2390,1761,Daniels-Rojas,13956.96
+0,2391,551,Sanders-Chase,22436.94
+0,2392,2827,Woodward Ford and Morales,79091.24
+0,2393,2194,Garcia LLC,20291.45
+0,2394,623,May-Taylor,26096.21
+0,2395,1915,Frey Group,52649.08
+0,2396,2127,Adams Wiley and Tran,4558.64
+0,2397,230,Walker-Moore,28725.78
+0,2398,1349,Powell-Kerr,56010.36
+0,2399,971,Burton Group,12818.56
+0,2400,2516,Thomas Bailey and Adams,52684.52
+0,2401,275,Nolan Inc,26001.86
+0,2402,2071,Sampson-Martinez,59771.89
+0,2403,699,King-Potter,50710.77
+0,2404,1706,Berger Rojas and Castillo,15686.77
+0,2405,1750,Browning-Taylor,46921.95
+1,2406,808,Brown Ltd,51284.99
+0,2407,2379,Smith Parker and Schwartz,69853.79
+0,2408,512,Davis-Brooks,14266.26
+0,2409,2067,Ward Young and Lynch,50086.98
+0,2410,2666,Perez Inc,10479.76
+0,2411,139,Singh Ltd,21424.16
+0,2412,1661,Johnson Inc,39234.33
+0,2413,1181,Moore LLC,3954.36
+0,2414,756,Ponce-White,5727.11
+0,2415,844,Gonzalez LLC,70312.26
+0,2416,859,Moses Ltd,51343.09
+0,2417,2040,James Inc,73269.4
+0,2418,2501,Rodriguez Landry and James,48394.77
+0,2419,2885,Watson Wilson and Fleming,64439.21
+0,2420,44,Santos-Barton,54962
+0,2421,1628,Murray-Schultz,79075.38
+0,2422,592,Carrillo-Fleming,72396.41
+0,2423,1927,Lee Morris and Torres,17605.19
+0,2424,1030,Randall Whitehead and Howard,74135
+1,2425,2322,Ryan LLC,77586.68
+0,2426,308,Osborn-Bush,16283.98
+0,2427,1572,Melton Group,68017.36
+0,2428,2354,Gutierrez Ltd,19940.51
+0,2429,2842,Larson Inc,47959.27
+0,2430,2226,Contreras Ltd,39128.41
+0,2431,1660,Rodriguez Meadows and Mason,5484.78
+0,2432,1611,Hammond-Higgins,54963.44
+0,2433,2262,Durham Shaw and Wood,75532.68
+0,2434,1187,Walker-Mcdonald,63152.28
+0,2435,728,Klein Dyer and Holland,8164.24
+0,2436,2906,Carr-Taylor,4335.77
+0,2437,684,Harris Group,15169.39
+0,2438,30,Ford Swanson and Hall,28636.67
+0,2439,394,White-Lowe,5546.88
+0,2440,2411,Kidd-Henry,27742.27
+0,2441,2093,Rodriguez Singh and Ewing,31596.02
+0,2442,707,Davis PLC,49477.79
+0,2443,821,Stein Miller and Barajas,14508.15
+0,2444,710,Anderson LLC,65351.75
+0,2445,2814,Carson LLC,52127
+0,2446,124,Yoder-Martin,76557.65
+0,2447,430,Robertson Group,41236.69
+0,2448,1593,Williams and Sons,60412.78
+0,2449,806,Foster Harrison and Mckee,57786.59
+0,2450,1082,Gomez Inc,49195.12
+0,2451,350,Molina Ltd,72223.98
+0,2452,24,Morgan Martinez and Dudley,11412.19
+0,2453,2107,Williams Ltd,27858.6
+0,2454,873,Medina-Casey,39021.93
+0,2455,663,Mccoy-Munoz,51557.73
+0,2456,1774,Evans Inc,42743.96
+0,2457,57,Martin Young and Boyer,46662.23
+0,2458,2692,Gallegos Lopez and Rodriguez,49775.89
+0,2459,1624,Davis-Davis,55374.1
+0,2460,943,Snyder Group,8948.94
+0,2461,1079,Brown Lyons and Bruce,52108.9
+0,2462,2695,Armstrong Group,61384.5
+0,2463,1829,Grant Inc,4594.34
+0,2464,2949,Cisneros Figueroa and Booth,16767.47
+0,2465,1257,Austin-Edwards,19055.66
+0,2466,1553,Tran-Kelly,55753.73
+0,2467,1841,Wood Carr and Le,19767.8
+0,2468,2457,Fernandez-Moore,56922.59
+0,2469,899,Griffin PLC,16728.26
+0,2470,2474,Logan LLC,4360.62
+0,2471,877,Hines Reed and Grimes,51559.49
+1,2472,2764,Prince Steele and Reed,48284.17
+0,2473,354,Shah Group,49768.23
+0,2474,2781,Collins Dean and Perry,44132.18
+1,2475,891,Reyes Inc,57484.39
+0,2476,1538,Ramos-Hall,69257.86
+0,2477,653,Thomas Harrell and Smith,47652.53
+0,2478,812,Collins-Johnson,77855.25
+0,2479,1289,Mccullough-Olsen,50263.15
+0,2480,2808,Gill-Sosa,67731.49
+0,2481,1569,Grant Inc,73785.15
+0,2482,334,Koch Martin and Turner,48075.94
+0,2483,1526,Lewis-Stone,4384.92
+0,2484,1160,Blair-Andrade,65859.78
+0,2485,1651,Moreno PLC,61634.59
+1,2486,1840,Wise-Rojas,55502.05
+0,2487,787,Lane-Nelson,61762.92
+0,2488,2096,Mosley-Wilkerson,35152.19
+0,2489,2485,Anderson Brandt and Martinez,14227.34
+0,2490,761,Benson and Sons,65517.55
+0,2491,125,Bryan Ltd,53674.3
+0,2492,929,Thompson Lopez and White,37278.49
+0,2493,1763,Mckenzie-Combs,10853.58
+0,2494,501,Holland PLC,59045.83
+0,2495,155,Olson PLC,30036.33
+0,2496,2079,Patton Group,51897.74
+0,2497,276,Wilson PLC,15288.35
+0,2498,2706,Briggs LLC,34181.27
+0,2499,1631,Mitchell Reed and Anderson,1806.1
+0,2500,1104,Martinez PLC,15555.41
+1,2501,946,Taylor Brooks and Ruiz,59532.77
+0,2502,1941,Mitchell Anderson and Kemp,77035.53
+0,2503,2682,Kramer-Gibson,61558.13
+0,2504,1621,Evans Group,11128.55
+0,2505,2873,Reilly Group,55987.84
+0,2506,2311,Sims-Cole,52895.7
+0,2507,2807,Kim-Day,45007.02
+0,2508,683,Harris Ltd,69579.91
+0,2509,2210,Curtis Miller and Ferrell,57514.96
+1,2510,1753,Morgan Taylor and Solomon,66184.98
+0,2511,1885,Gray Drake and Lopez,74463.65
+0,2512,1967,Robles-Rogers,72131.16
+0,2513,2404,Crosby-Hernandez,49386.51
+0,2514,1522,Young-Garcia,39716.37
+0,2515,68,Nelson-Edwards,61966.6
+0,2516,1081,Wagner-Love,62666.48
+0,2517,559,Wright Group,32055.49
+0,2518,265,Chandler-Flores,17478.85
+0,2519,2235,Snyder-Green,49118.23
+0,2520,2606,Berry-Brown,20257.02
+1,2521,1723,Aguilar-Holt,57534.15
+0,2522,672,Rogers Parker and Sloan,59405.14
+0,2523,786,Wilson PLC,4039.49
+0,2524,715,Davis Barnes and Smith,61797.62
+0,2525,2061,Russell-Morgan,9697.63
+0,2526,289,Austin Inc,51143.37
+0,2527,245,Boone-Underwood,57867.42
+0,2528,2296,Rodriguez Jackson and Reynolds,5078.76
+0,2529,2673,Manning Group,22169.25
+0,2530,1495,Lee-Dawson,41001.49
+0,2531,160,Peters-Davidson,12629.88
+0,2532,1567,Marshall-Cooper,4580.79
+0,2533,1481,Davidson-Brown,4267.52
+0,2534,2651,Owens Ltd,12104.04
+0,2535,2064,Gilbert-Villanueva,24659.85
+0,2536,1197,Mcclain Inc,18197.47
+0,2537,1712,Grant-Chase,50720.71
+0,2538,2171,Hill-Kelly,50440.08
+0,2539,197,Bowers LLC,36371.62
+0,2540,762,Watkins LLC,30774.3
+0,2541,868,Melton Hendrix and Hammond,1437.27
+0,2542,1326,Parks-Ramirez,4230.69
+0,2543,642,Medina Ltd,66435.63
+0,2544,940,Snyder Ltd,62293.07
+0,2545,1773,Myers Martin and Wilkins,2853.41
+0,2546,2054,Austin Ltd,17797.01
+1,2547,1392,Bass Cox and Miller,76418.56
+0,2548,2715,Bailey-Little,33732.86
+0,2549,1922,Leon-Howell,13811.32
+0,2550,225,Burton PLC,6367.54
+0,2551,1292,Johnson Torres and Brown,78299.1
+0,2552,1025,Smith-Lindsey,75687.89
+0,2553,111,Jacobson Tucker and West,76225.99
+1,2554,2567,King LLC,54557.33
+0,2555,1180,Rice-Ingram,35306.71
+0,2556,485,Lambert-Benson,6498.39
+0,2557,2847,Dominguez Ltd,66010.82
+0,2558,236,Gallagher-Ross,65801.6
+0,2559,2406,Reyes Peterson and George,17976.25
+0,2560,882,Gilbert PLC,38197.37
+0,2561,2717,Ramirez PLC,21390.29
+0,2562,2931,Jackson Ltd,15379.8
+0,2563,1293,Ramirez and Sons,18885.82
+0,2564,458,Reed-Pacheco,22569.22
+0,2565,2552,Stevens Inc,27610.97
+0,2566,2954,Preston LLC,47576.07
+0,2567,1424,Daniel-Miranda,44647.58
+0,2568,1083,Smith Sweeney and Roman,13144.05
+1,2569,1854,Brown-Kirk,13533.73
+0,2570,2081,Gross Ltd,48770.44
+0,2571,2543,Ellis Walsh and Pace,61987.64
+0,2572,2073,Mathis Oneill and Blackwell,38180.25
+0,2573,1231,Fleming Taylor and Smith,63272.56
+0,2574,1953,Fisher LLC,78206.82
+0,2575,1100,Johnson-Murray,2536.96
+0,2576,108,Mcguire Inc,49812.88
+0,2577,2705,Castro James and Hill,71398.64
+0,2578,103,Larson-Mayer,51399.36
+0,2579,1758,Miller Inc,60392.56
+0,2580,2056,Armstrong and Sons,67101.14
+0,2581,1882,Webster and Sons,65948.38
+0,2582,1989,Smith and Sons,11613.63
+0,2583,1240,Gibson-Evans,53042.04
+0,2584,1810,Powers-Williams,79958.44
+0,2585,696,Roberts Walter and Greene,32165.38
+0,2586,2111,Elliott Group,18826.67
+0,2587,1432,Norton-Turner,50200.3
+0,2588,764,Weeks Ltd,29003.47
+0,2589,2236,Kim Morrison and Hart,72678
+0,2590,2332,Grimes Green and Jones,79204.89
+1,2591,1691,Myers Shepherd and Barnes,50937.52
+0,2592,1210,Smith LLC,37729.62
+0,2593,1183,Moore-Rodriguez,17193.51
+0,2594,1958,Flores Group,12747.68
+0,2595,2212,Carlson LLC,74446.37
+0,2596,11,Thompson Ferguson and Walker,21063.2
+0,2597,1127,Kerr Pierce and Everett,1498.29
+0,2598,342,Davidson-Solomon,53390.09
+0,2599,110,Beck-Medina,19063.75
+0,2600,1297,Smith Gregory and Davis,1219.18
+0,2601,2364,Williams-Mcfarland,18817.87
+0,2602,2178,Simmons Woods and Rodgers,46235.19
+0,2603,688,Moore Group,53840.7
+0,2604,1435,Williams-Hensley,13143.01
+0,2605,704,Richardson PLC,37960.55
+0,2606,1277,Anderson and Sons,61279.65
+0,2607,2894,Brown-Flores,14804.53
+0,2608,2987,Taylor Inc,36296.59
+0,2609,2417,Steele PLC,49512.97
+0,2610,2623,Lopez Massey and Nelson,49191.95
+0,2611,1399,Duncan-Long,1809.87
+1,2612,1219,Miller Inc,60175.24
+0,2613,2396,Davis Hill and Flores,17134.91
+0,2614,386,Doyle-Cook,56344.35
+0,2615,620,Madden Caldwell and Lambert,8194.9
+0,2616,2430,Reynolds Koch and Hanson,52177.24
+0,2617,629,Page Ltd,47009.1
+0,2618,88,Bennett PLC,70283.6
+0,2619,2042,Adams-Rodriguez,27222.4
+0,2620,1766,Mills Gonzales and Campbell,40071.48
+0,2621,2846,Smith Taylor and Brock,29881.49
+0,2622,204,Henson Franklin and Coleman,49429.87
+0,2623,1928,Johnston-Meadows,2938.68
+0,2624,347,Hernandez Ross and Chavez,31800.1
+0,2625,1914,Shaw Group,51016.49
+0,2626,43,Miller Ltd,48708.57
+0,2627,2727,Gomez LLC,56896.26
+0,2628,1170,Patton-Reyes,28439.18
+0,2629,390,Bowen Inc,33982.26
+0,2630,2734,Long Munoz and Burnett,33781.22
+0,2631,1236,Ramos Ltd,33989.68
+0,2632,2391,Huynh-Rodriguez,74115.86
+0,2633,2324,Chaney Garcia and Atkins,16330.92
+1,2634,678,Shepherd Thomas and Randolph,30233.18
+0,2635,1594,Schmitt-Lopez,32303.34
+0,2636,652,Andrade-Arroyo,67593.91
+0,2637,1370,Roach LLC,32054.96
+0,2638,1035,Le Group,57217.62
+0,2639,416,Gray and Sons,46826.95
+0,2640,360,Rodriguez Ewing and Stanley,23792.94
+0,2641,235,Mack-Wang,66991.39
+0,2642,802,Short-Gay,22720
+0,2643,2568,Myers-Skinner,55447.71
+0,2644,1099,Ward-Carpenter,67709.09
+0,2645,87,Sellers Bright and Garcia,77033.62
+0,2646,2791,Gray-Flynn,70151.64
+0,2647,2483,Holland Inc,53902.31
+0,2648,184,Stewart Ltd,71452.16
+0,2649,1500,Raymond-Hunter,48419.93
+1,2650,186,Holland-Bowman,25866.55
+0,2651,1972,Lucas LLC,3204.44
+0,2652,1493,Bryant-Baker,24241.93
+0,2653,586,Lee Dixon and Anderson,63834.94
+0,2654,702,Wright and Sons,18305.37
+0,2655,1903,Gonzales Bryant and Robinson,3881.94
+0,2656,630,Smith PLC,47146.39
+0,2657,2634,Barrett Wolf and Briggs,53854.51
+0,2658,2836,Moyer Wright and Williams,2119.49
+0,2659,2090,Hill and Sons,70510.64
+0,2660,2145,Odonnell PLC,2734.36
+0,2661,2978,Gallegos Group,76697
+0,2662,2369,Bates-Ryan,26430.07
+0,2663,335,Gardner Group,26164.68
+0,2664,901,Andersen Garcia and Ross,9214.83
+0,2665,1378,Powell LLC,32719.98
+0,2666,1148,Moran LLC,30367.58
+0,2667,2726,Campbell Turner and Clark,48756.29
+0,2668,369,Rodriguez LLC,17175.67
+0,2669,1390,Daugherty Inc,33728.63
+0,2670,1469,Berry-Bates,54742.39
+0,2671,2989,Williams-Santos,31351.25
+0,2672,1704,Jones Meyer and White,78859.41
+0,2673,1722,Brown LLC,18967.32
+0,2674,426,Mitchell-Shields,12787.66
+0,2675,700,Gibbs-Ross,45016.19
+0,2676,1646,Montoya Little and Wallace,67742.32
+0,2677,1934,Walters and Sons,33230.94
+0,2678,1047,Huang Buckley and Stevenson,53894.54
+0,2679,524,Newton Owens and Miller,15312.91
+0,2680,723,Anderson-Fox,49347.67
+0,2681,1896,Scott Jones and Rivera,45068.15
+0,2682,1698,Kim and Sons,27558.58
+0,2683,656,Jackson-Garcia,18577.97
+0,2684,2914,Perez Ltd,50149.55
+0,2685,2393,Myers Barnes and Baird,75868.54
+1,2686,1467,Jackson Inc,66977.27
+1,2687,516,Pittman Ltd,26129.81
+0,2688,1900,Gomez Ltd,26391.53
+0,2689,26,Wallace-Miller,43714.86
+0,2690,1777,Ball Inc,7102.8
+0,2691,2908,Brown Mitchell and Davis,39714.32
+0,2692,1029,Kirk Allen and Garrett,55411.13
+0,2693,2308,Bryant Inc,31010.81
+0,2694,2995,Griffith-Anderson,30262.83
+0,2695,2733,Mullins-Rosales,39552.47
+0,2696,1367,White-Ortiz,59394.32
+0,2697,994,Graves-Williams,35115.18
+0,2698,2442,Mcdowell and Sons,24685.04
+0,2699,1581,Kim Diaz and English,69733.22
+0,2700,1154,Horn Ltd,71598.47
+0,2701,505,Garcia Perry and Kelley,63525.75
+0,2702,1540,Stevenson-Doyle,73942.41
+0,2703,2668,Howard Clarke and Washington,58088.47
+0,2704,446,Lee Group,68723.13
+0,2705,344,Woods-Wheeler,75392.85
+0,2706,1337,Ball and Sons,26187.73
+0,2707,1303,Mcclure-Taylor,57194.47
+0,2708,1783,Yu-Washington,32088.78
+0,2709,1348,Hernandez Inc,5659.76
+0,2710,2423,Mcdaniel Group,65650.87
+0,2711,2767,Morgan-Reid,76227.03
+0,2712,1186,Cameron PLC,36289.81
+0,2713,101,Sherman-Peterson,70979.93
+0,2714,1640,Perry Inc,53931.31
+0,2715,671,Olsen Ltd,3470.38
+0,2716,2424,Russell and Sons,13286.19
+0,2717,2930,Elliott-Peterson,59934.96
+0,2718,54,Hendrix Boyer and Chandler,36718.03
+0,2719,1925,Aguirre PLC,26483.87
+0,2720,1752,Moore Nguyen and Dunn,51186.21
+0,2721,78,Curtis Ltd,36172.7
+0,2722,193,Parker Moore and Bryant,13012.83
+0,2723,1721,Barnett Ramos and Meyer,40753.77
+0,2724,358,Mason-King,77085.84
+0,2725,1546,Ryan PLC,69866.14
+0,2726,1118,Porter-Mitchell,22747.74
+0,2727,974,Rodriguez and Sons,25830.11
+0,2728,711,Barton LLC,64675.45
+0,2729,2831,Mcdonald-Wilkins,28316.36
+0,2730,2148,West Gray and Ferguson,5585.54
+0,2731,1568,Thompson Wheeler and Jones,59789.06
+0,2732,83,Dixon PLC,67448.77
+0,2733,1946,Wright Group,44579.65
+0,2734,1458,Joseph Inc,8851.69
+0,2735,665,Sims Arnold and Cole,27097.56
+0,2736,1720,Nelson Orozco and Bryant,52009.3
+0,2737,2340,Williams LLC,58378.34
+0,2738,1838,Kim LLC,15521.96
+0,2739,2359,Griffin-Taylor,46886.86
+0,2740,708,Smith Group,31902.3
+0,2741,106,Snyder-Smith,69326.14
+0,2742,194,Rhodes-Baird,17772.07
+0,2743,1817,Yang Powell and Hood,8000.89
+0,2744,863,Dixon PLC,73896.7
+0,2745,1005,Pacheco Murphy and Bailey,78340.36
+0,2746,1736,Wagner-Lang,72453.73
+0,2747,1725,David Howard and Richardson,3805.68
+0,2748,909,Butler LLC,25621.49
+0,2749,724,Mckee-Brown,36759.07
+0,2750,2454,Smith Ltd,37893.39
+0,2751,1923,Ray and Sons,38389.19
+0,2752,1071,King LLC,2029.16
+0,2753,151,Hayes-Phillips,10305.07
+0,2754,847,Ramirez-Fleming,44200.74
+0,2755,2872,Duncan Inc,77585.94
+0,2756,2400,Pennington-Martinez,52220.03
+0,2757,1173,Adams Davis and Wilkinson,63482.91
+0,2758,1247,Duncan Morris and Mathews,36980.67
+0,2759,1735,Perez Group,25797.29
+0,2760,2961,Webb Group,47346.85
+0,2761,513,Jones-Murphy,6429.57
+0,2762,2452,Yates Castro and Rose,2247.61
+0,2763,1765,Trujillo-Baird,15648.28
+1,2764,2012,Brown-Dominguez,14413.06
+0,2765,91,Galloway Group,31278.42
+0,2766,1142,Benton-Schwartz,73798.03
+0,2767,2503,Preston Mora and Rodriguez,12437.96
+0,2768,876,Morales Ltd,61687.32
+0,2769,102,Taylor Inc,32597.31
+0,2770,1475,Parrish-Moses,58812.99
+0,2771,991,Smith LLC,79695.64
+0,2772,2968,Shaffer LLC,12350.91
+0,2773,1874,Wall Boyd and Higgins,40876.03
+0,2774,2947,Braun-Banks,60019.59
+0,2775,887,Rose Conrad and Stephens,75031.06
+0,2776,760,Leach-Madden,58257.46
+0,2777,1904,Williams LLC,74563.9
+0,2778,2948,Arnold LLC,8412.53
+0,2779,2646,Page Taylor and Robinson,6287.28
+0,2780,1665,Parks Group,9308.55
+0,2781,2523,Hickman-Washington,59973.8
+0,2782,1425,Pham and Sons,55822.44
+0,2783,127,Collins Inc,27118.29
+0,2784,2536,Walsh and Sons,30465.18
+0,2785,1288,Patterson-Schultz,22843.34
+0,2786,854,Thomas Cooper and Hernandez,47297.1
+0,2787,2923,Taylor Scott and Bush,35882.99
+0,2788,504,George Blake and West,10991.29
+0,2789,1993,Mcdaniel Andrade and Allen,62932.04
+0,2790,1252,Flynn-Frazier,30920.31
+0,2791,726,Baker-Hardy,10293.5
+0,2792,157,Smith-Scott,66731.53
+0,2793,523,Ferguson Garcia and Wolf,19466.04
+1,2794,27,Richardson-Garcia,52411.56
+0,2795,2276,Russo Group,75368.49
+0,2796,2881,Greene PLC,79747.56
+0,2797,1605,Mendez-Rocha,38843.86
+0,2798,2294,Bailey-Powers,58743.59
+0,2799,2641,Jackson-Atkins,6871.54
+0,2800,278,Bowers Davis and Hensley,9478.14
+0,2801,2500,Patterson Lam and Suarez,1925.74
+0,2802,657,Dixon-Romero,32097.31
+0,2803,1948,Young LLC,32527.64
+0,2804,2228,Howard Obrien and Smith,22944.76
+0,2805,2028,Jimenez Silva and Ramirez,51891.08
+0,2806,2373,Smith Ltd,66469.3
+0,2807,2712,Garcia-Small,36978.23
+0,2808,35,Garcia-Hamilton,42607.76
+0,2809,99,Reynolds Zimmerman and Cox,37440.5
+1,2810,383,Smith Smith and Davis,27822.29
+0,2811,1803,Page LLC,14548.77
+0,2812,32,Aguilar LLC,35343.14
+0,2813,908,Ross Group,45068.25
+0,2814,1887,Brown Group,47491.52
+0,2815,1483,Rodriguez Fowler and Oneal,46846.25
+0,2816,1857,Johnson Group,16062.14
+0,2817,2131,Gill-Hatfield,75584.84
+0,2818,1798,Lewis-Williams,36530.34
+0,2819,2505,Lopez Pope and Sullivan,73083.65
+0,2820,936,Randolph Ltd,24687.07
+0,2821,2751,Avila-Calhoun,18487.07
+0,2822,2869,Stewart Ltd,17278.17
+0,2823,1871,Powell Group,3303.32
+0,2824,404,Sanchez PLC,12664.74
+0,2825,1909,Barry-Bowen,48988.75
+0,2826,2146,Wilcox Stephens and Romero,56316.9
+0,2827,1549,Bell Group,77889.04
+0,2828,1889,Christensen Gray and Gonzalez,23402.98
+0,2829,2713,Case and Sons,13222.76
+0,2830,2129,Olson Group,13461.66
+0,2831,77,Rice Davis and Cannon,7563.52
+1,2832,2386,Jones and Sons,66657.88
+0,2833,564,Martinez and Sons,37792.71
+0,2834,2074,Bush-Morris,72564.79
+0,2835,1516,Evans-Mcpherson,70632.12
+0,2836,2087,Caldwell PLC,7724.86
+0,2837,1202,Lopez-Parks,1662.18
+0,2838,2952,Trevino-Martin,16720.95
+0,2839,1813,Washington-Miller,29029
+0,2840,1924,Patterson-Williams,59727.12
+0,2841,963,Shaw PLC,1009.57
+0,2842,1138,Fuller-Martin,16508.48
+0,2843,1095,Moore Inc,36923.71
+0,2844,825,Sanchez Copeland and Flores,45457.95
+0,2845,1893,Coleman Group,75872.29
+0,2846,1566,Smith Singleton and Robinson,3176.2
+0,2847,2633,Holmes Inc,76480.4
+0,2848,1275,Armstrong Keller and Nelson,15191.73
+0,2849,1541,Arnold-Henry,70725.91
+0,2850,397,Rogers-Richardson,10186.92
+0,2851,241,Malone Barnes and Chen,74079.98
+0,2852,2840,Smith-Koch,17422.15
+0,2853,716,Simmons Cook and Hunt,52755.92
+0,2854,611,Gonzalez and Sons,69196.62
+0,2855,894,James LLC,67223.65
+0,2856,1056,Garcia and Sons,8952.19
+0,2857,2002,Romero-Price,77816.33
+0,2858,2068,Williams Mitchell and Stout,6240.06
+0,2859,399,Jones PLC,47381.55
+0,2860,677,West-Carroll,29575.99
+0,2861,763,Lawson Ltd,38688.08
+0,2862,1859,Gregory Martin and Roberts,44452.18
+0,2863,237,Graham-Perez,21726.63
+0,2864,1524,Scott Brown and Thomas,5474.08
+0,2865,1094,Bauer-Henderson,63972.83
+0,2866,2385,Dominguez Inc,64621.7
+0,2867,2936,Sims-Patterson,40107.96
+0,2868,964,Thomas and Sons,21071.57
+0,2869,1532,Miller-Montgomery,63655.82
+0,2870,1011,Barajas-James,27007.28
+0,2871,413,Baker Johnson and Johnson,30669.32
+0,2872,8,Foster Miller and Martin,25770.34
+0,2873,2675,Smith-Frank,22995.62
+0,2874,1201,Ramirez Perry and Simpson,43773.21
+0,2875,2680,Higgins Zuniga and Gardner,45702.06
+0,2876,2472,Wheeler and Sons,22120.14
+0,2877,1950,Mccoy Wilson and Bell,51038.96
+0,2878,2616,Hall-Franklin,10022.06
+0,2879,1583,Hill Bryant and Montoya,35957.38
+0,2880,2389,Reed-Lee,54463.54
+0,2881,1738,Harris-Wilson,29517.99
+0,2882,396,Matthews-Ferguson,41198.16
+0,2883,1599,Patterson-Reynolds,60292.47
+0,2884,2489,Cruz-Stewart,78131.32
+0,2885,247,Dixon Lewis and Davis,38303.9
+0,2886,2546,Lowe Clark and Ellis,53038.2
+0,2887,2604,Thomas Lee and Stevens,70435.24
+0,2888,2939,Ferrell LLC,68569.71
+0,2889,1990,Johnson-Cooper,61593.05
+0,2890,405,Casey Ltd,4024.54
+0,2891,2319,Bowen Inc,74241.89
+0,2892,1205,Garner-Johnson,65288.25
+0,2893,2992,Foster-Thomas,6432.07
+0,2894,2154,Chan Group,52360.42
+0,2895,1565,Castillo Martin and Cobb,38906.96
+0,2896,2777,Tucker LLC,42099.5
+0,2897,2062,Jones Inc,55379.1
+0,2898,1072,Coleman Edwards and Peterson,60752.7
+0,2899,2909,Oneal Brown and Rodriguez,56525.63
+0,2900,2613,Edwards PLC,33289.24
+1,2901,801,Collins-Hall,34368.92
+0,2902,2511,Robinson Ltd,37426.95
+0,2903,603,Jackson Pena and Lin,67947.95
+0,2904,1494,Ochoa Rivas and Clark,13808.3
+0,2905,59,Mora Oconnor and Mitchell,6449.13
+0,2906,2796,Johnson-Garrett,39107.98
+0,2907,185,Doyle-Beltran,20118.67
+0,2908,1448,Thomas-Guerrero,72384.28
+0,2909,2252,Phillips-Perez,41879.7
+0,2910,438,Lutz-Bennett,13293.72
+0,2911,2072,Torres Cochran and Ryan,9540.72
+0,2912,2835,Coffey Group,51795.28
+0,2913,214,Graham-Harris,27353.24
+0,2914,2435,Lee Stewart and Landry,23509.37
+1,2915,2150,Braun PLC,54967.78
+0,2916,1931,Dunn Group,24762.94
+0,2917,2974,Campbell Coleman and Rios,46988.59
+0,2918,410,Case Rojas and Rodriguez,13171.29
+1,2919,2421,Armstrong Ltd,54465.79
+0,2920,2103,Rogers-Henderson,36145.79
+0,2921,871,Walker Inc,71194.8
+0,2922,851,Fields Martinez and Chang,66522.27
+1,2923,795,Johnson-Payne,51359.95
+0,2924,1024,Anderson Foster and Diaz,56090.21
+0,2925,1319,Aguilar Group,75449.25
+0,2926,2800,Johnson Dominguez and Kelley,44717.25
+0,2927,573,Castillo-Conway,41679.32
+0,2928,521,Vargas-Grant,36037.31
+0,2929,2762,Wood Murray and Rice,26430.04
+0,2930,2532,Kemp Burton and Brown,37105.69
+0,2931,1313,Bautista PLC,38777.88
+0,2932,352,Reynolds Bell and Rodriguez,5264.04
+0,2933,2165,Cox Baker and Thornton,6413.07
+0,2934,2231,Jones Rowe and Becker,29295.63
+0,2935,645,Patterson-Santos,16964.93
+0,2936,1545,Fitzgerald Inc,49872.8
+0,2937,1363,Reed-Irwin,72797.8
+0,2938,1614,Scott-Huber,64988.32
+0,2939,126,Salazar Ltd,74363.78
+0,2940,45,Whitney Miles and Wilson,45143.03
+0,2941,2919,Miller-Jones,42500.92
+0,2942,2900,Parker-Wang,3089.88
+0,2943,1641,Boone-Warner,56648.97
+0,2944,2687,Nicholson LLC,75775.96
+0,2945,2830,Fleming-Rogers,17527.3
+0,2946,1189,Hendricks Group,42723.07
+0,2947,273,Hartman Lamb and Miller,24967.39
+0,2948,612,Green-Jackson,1686.87
+0,2949,2207,Foley-Anderson,59368.11
+0,2950,367,Hunter and Sons,66703.5
+0,2951,2850,Parker-Holloway,52892.73
+0,2952,1470,Lee Thomas and Swanson,8960.82
+0,2953,423,Cochran Wagner and Gutierrez,3627.04
+0,2954,493,Ayers-Taylor,23355.37
+0,2955,1380,Hansen-Day,53102.64
+0,2956,2600,Hawkins Moore and Green,36458.96
+0,2957,2499,Jones-Ramos,1311.47
+0,2958,2431,Dawson LLC,41829.63
+0,2959,1449,Smith Group,21914.39
+0,2960,701,Underwood-Brown,53274.72
+0,2961,51,Kramer Graham and Johnson,28572.19
+0,2962,2542,Potts Allen and Wang,39888.57
+0,2963,1014,Hughes and Sons,34195.08
+0,2964,2058,Lin Whitehead and Henry,46904.27
+0,2965,1294,Webster LLC,61140.22
+0,2966,646,Jones LLC,55184.36
+0,2967,1416,Macias Robinson and White,65318.46
+1,2968,162,Smith Mason and Harris,41904.61
+0,2969,1255,Buchanan-Meza,43090.17
+0,2970,2878,Love Kelly and Espinoza,61668.96
+0,2971,2142,Dawson PLC,42565.6
+0,2972,979,Webb-Phillips,28169.36
+0,2973,2089,Brown-Atkins,67238.5
+0,2974,1437,Scott Group,52622.2
+0,2975,351,White Group,24893.27
+0,2976,2219,Frost-Mayo,44980.79
+0,2977,628,Nolan Ltd,11036.72
+0,2978,2271,Silva Thomas and Baker,17345.08
+0,2979,972,Lee Jones and Williams,38289.59
+0,2980,2370,Mendoza-Burns,55915.68
+0,2981,1401,Crawford-Lyons,76352.45
+0,2982,2325,Frye Inc,63061.66
+0,2983,1237,Thornton LLC,3916.3
+0,2984,215,Kerr-Garcia,53986.9
+0,2985,2962,Poole Phillips and Juarez,76630.02
+0,2986,1090,Henderson Harris and Lyons,69613.28
+0,2987,2106,Smith Nguyen and Fischer,50062.31
+0,2988,84,Marshall-Hall,72687.74
+0,2989,2233,Brooks LLC,59374.4
+0,2990,1007,Hubbard Taylor and Thomas,9845.56
+0,2991,2598,Ryan Lester and Hunt,68927.3
+0,2992,58,King PLC,23521.85
+0,2993,2444,Stephenson Inc,77581.45
+0,2994,141,Hayes-Morgan,68277.6
+0,2995,2573,Horton-Garcia,13803.94
+0,2996,2286,Hill Berry and Anderson,70298.17
+0,2997,1769,Wells-Fisher,48823.07
+0,2998,1497,Smith LLC,23583.64
+0,2999,2912,Lester-Mckenzie,71164.49
